@@ -1,0 +1,39 @@
+<?php
+
+return new \Phalcon\Config(array(
+    'database' => array(
+        'adapter'  => 'Mysql',
+        'host'     => 'localhost',
+        'username' => 'root',
+        'password' => '',
+        'name'     => 'signadens',
+    ),
+    'application' => array(
+        'controllersDir'        => __DIR__ . '/../../app/controllers/',
+        'modelsDir'             => __DIR__ . '/../../app/models/',
+        'viewsDir'              => __DIR__ . '/../../app/views/',
+        'libraryDir'            => __DIR__ . '/../../app/library/',
+        'cacheDir'              => __DIR__ . '/../../app/cache/',
+        'pluginsDir'	        => __DIR__ . '/../../app/plugins/',
+        'langDir'               => __DIR__ . '/../../app/translations/',
+        'uploadDir'             => __DIR__ . '/../../public/uploads/',
+        'bulkInvoicesDir'       => __DIR__ . '/../../public/uploads/invoices/bulk/',
+        'conceptInvoicesDir'    => __DIR__ . '/../../public/uploads/invoices/concept/',
+        'confirmedInvoicesDir'  => __DIR__ . '/../../public/uploads/invoices/confirmed/',
+        'baseUri'               => '/',
+    ),
+    'plugins' => array(
+        'swiftmailer'	=> __DIR__ . '/../../app/plugins/swiftmailer/lib/swift_required.php'
+    ),
+    'settings' => array(
+        'email_validation' => true,
+        'language'					=> 'nl',
+        'system_email'				=> 'signadens@g51test.nl',
+        'system_email_reply_to'		=> 'signadens@g51test.nl'
+    ),
+    'mailchimp' => array(
+        'apikey'	=> '0babc60fe4c9d0124640982272b74fcd-us10',
+        'list'		=> 'a7282c8a55',
+        'group'         => array('val' => 'Applicatie', 'id' => '9141')
+    )
+));

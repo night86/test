@@ -1,0 +1,4829 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-01-30 15:12+0100\n"
+"PO-Revision-Date: 2019-01-30 15:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: signa.php\n"
+
+#: signa.php:2
+msgid "on delivery"
+msgstr "Reeds besteld"
+
+#: signa.php:3
+msgid "Accept"
+msgstr "Accepteren"
+
+#: signa.php:4
+msgid "Accept and create new account"
+msgstr "Akkoord en maak nieuwe account"
+
+#: signa.php:5 signa.php:429
+msgid "Access log"
+msgstr "Toegangslogboek"
+
+#: signa.php:6
+msgid "Account information"
+msgstr "Account informatie"
+
+#: signa.php:7
+msgid "Action"
+msgstr "Actie"
+
+#: signa.php:8 signa.php:880
+msgid "Actions"
+msgstr "Acties"
+
+#: signa.php:9 signa.php:906
+msgid "Activate"
+msgstr "Activeren"
+
+#: signa.php:10 signa.php:902
+msgid "Active"
+msgstr "Actief"
+
+#: signa.php:11
+msgid "Activities"
+msgstr "Activiteiten"
+
+#: signa.php:12 signa.php:848 signa.php:1002
+msgid "Add"
+msgstr "Toevoegen"
+
+#: signa.php:13 signa.php:894
+msgid "Add new"
+msgstr "Toevoegen"
+
+#: signa.php:14
+msgid "Add organisation"
+msgstr "Organisatie toevoegen"
+
+#: signa.php:15
+msgid "Add product"
+msgstr "Recept toevoegen"
+
+#: signa.php:16 signa.php:914
+msgid "Add step"
+msgstr "Stap toevoegen"
+
+#: signa.php:17
+msgid "Add to cart"
+msgstr "Bestel"
+
+#: signa.php:18
+msgid "Add to shortlist"
+msgstr "Zet op shortlist"
+
+#: signa.php:19
+msgid "Added by"
+msgstr "Toegevoegd door"
+
+#: signa.php:20
+msgid "Added date"
+msgstr "Aanmaakdatum"
+
+#: signa.php:21
+msgid "Added on"
+msgstr "Aanmaakdatum"
+
+#: signa.php:22
+msgid "Address"
+msgstr "Adres"
+
+#: signa.php:23
+msgid "Affected rows"
+msgstr "Mutaties"
+
+#: signa.php:24
+msgid "All users access log"
+msgstr "Toegangslog alle gebruikers"
+
+#: signa.php:25 signa.php:475
+msgid "Amount"
+msgstr "Aantal"
+
+#: signa.php:26
+msgid "Amount."
+msgstr "Aantal."
+
+#: signa.php:27
+msgid "Application management"
+msgstr "Applicatiebeheer"
+
+#: signa.php:28
+msgid "Apply filters"
+msgstr "Filters toepassen"
+
+#: signa.php:29
+msgid "Approve"
+msgstr "Goedkeuren"
+
+#: signa.php:30
+msgid "Approve imports"
+msgstr "Goedkeuren import"
+
+#: signa.php:31
+msgid "Approve selected"
+msgstr "Selectie goedkeuren"
+
+#: signa.php:32
+msgid "Approved"
+msgstr "Goedgekeurd"
+
+#: signa.php:33
+msgid "Archive"
+msgstr "Archief"
+
+#: signa.php:34 signa.php:916
+msgid "Are you sure you want to remove?"
+msgstr "Weet u zeker dat u dit wilt verwijderen?"
+
+#: signa.php:35 signa.php:479
+msgid "Balance side"
+msgstr "Balanszijde"
+
+#: signa.php:36 signa.php:478
+msgid "Balance type"
+msgstr "Balanstype"
+
+#: signa.php:37 signa.php:882
+msgid "Basic data"
+msgstr "Basis data"
+
+#: signa.php:38
+msgid "box of"
+msgstr "doos van"
+
+#: signa.php:39
+msgid "BTW"
+msgstr "BTW"
+
+#: signa.php:40
+msgid "Buying"
+msgstr "Inkoop"
+
+#: signa.php:41
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: signa.php:42
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: signa.php:43
+msgid "Categories"
+msgstr "Categorieën"
+
+#: signa.php:44
+msgid "categories"
+msgstr "categorieën"
+
+#: signa.php:45 signa.php:846
+msgid "Category"
+msgstr "Categorie"
+
+#: signa.php:46
+msgid "Changed price alerts"
+msgstr "Alert prijsverandering"
+
+#: signa.php:47
+msgid "City"
+msgstr "Stad"
+
+#: signa.php:48
+msgid "Click on your name to proceed"
+msgstr "Klik op je naam om door te gaan"
+
+#: signa.php:49
+msgid "Client"
+msgstr "Klant"
+
+#: signa.php:50
+msgid "Client data"
+msgstr "Klant gegevens"
+
+#: signa.php:51
+msgid "Clients"
+msgstr "Klanten"
+
+#: signa.php:52 signa.php:436 signa.php:889
+msgid "Close"
+msgstr "Sluiten"
+
+#: signa.php:53 signa.php:470 signa.php:667
+msgid "Code"
+msgstr "Code"
+
+#: signa.php:54
+msgid "Code Extern"
+msgstr "Externe code"
+
+#: signa.php:55
+msgid "Column ID"
+msgstr "Nummer"
+
+#: signa.php:56
+msgid "Column name"
+msgstr "Kolomnaam"
+
+#: signa.php:57
+msgid "Column value"
+msgstr "Kolom waarde"
+
+#: signa.php:58
+msgid "Complete order"
+msgstr "Order plaatsen"
+
+#: signa.php:59 signa.php:917
+msgid "Confirm"
+msgstr "Bevestigen"
+
+#: signa.php:60
+msgid "Contracts"
+msgstr "Contracten"
+
+#: signa.php:61
+msgid "Count completedate"
+msgstr "Datum telling afgerond"
+
+#: signa.php:62
+msgid "Count date"
+msgstr "Tellingsdatum"
+
+#: signa.php:63
+msgid "Counted by user"
+msgstr "Geteld door"
+
+#: signa.php:64
+msgid "Counted value"
+msgstr "Getelde waarde"
+
+#: signa.php:65
+msgid "Countlist"
+msgstr "Tellijst"
+
+#: signa.php:66
+msgid "Country"
+msgstr "Land"
+
+#: signa.php:67
+msgid "Create new product"
+msgstr "Product toevoegen"
+
+#: signa.php:68 signa.php:468
+msgid "Currency"
+msgstr "Valuta"
+
+#: signa.php:69
+msgid "Custom fields"
+msgstr "Specifieke velden"
+
+#: signa.php:70
+msgid "Custom recipe"
+msgstr "Specifiek recept"
+
+#: signa.php:71
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: signa.php:72
+msgid "Date"
+msgstr "Datum"
+
+#: signa.php:73 signa.php:905
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: signa.php:74 signa.php:913
+msgid "Decision tree managment"
+msgstr "Beheer beslisboom"
+
+#: signa.php:75
+msgid "Decline"
+msgstr "Afwijzen"
+
+#: signa.php:76
+msgid "Decline all none selected"
+msgstr "Niet geselecteerde afwijzen"
+
+#: signa.php:77 signa.php:895
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: signa.php:78
+msgid "Delivery date"
+msgstr "Leverdatum"
+
+#: signa.php:79
+msgid "Delivery time"
+msgstr "Levertijd"
+
+#: signa.php:80 signa.php:432
+msgid "Dentist"
+msgstr "Tandarts"
+
+#: signa.php:81
+msgid "Dentist(client)"
+msgstr "Tandarts (klant)"
+
+#: signa.php:82 signa.php:471 signa.php:878
+msgid "Description"
+msgstr "Omschrijving"
+
+#: signa.php:83
+msgid "Details"
+msgstr "Details"
+
+#: signa.php:84
+msgid "download"
+msgstr "Download"
+
+#: signa.php:85 signa.php:661 signa.php:900
+msgid "Due date"
+msgstr "Vervaldatum"
+
+#: signa.php:86 signa.php:891
+msgid "Edit"
+msgstr "Bewerken"
+
+#: signa.php:87
+msgid "Edit order"
+msgstr "Order bewerken"
+
+#: signa.php:88
+msgid "Edit organisation"
+msgstr "Organisatie bewerken"
+
+#: signa.php:89
+msgid "Edit recipe"
+msgstr "Recept bewerken"
+
+#: signa.php:90 signa.php:886
+msgid "Edit tree category"
+msgstr "Bewerk boomcategorie"
+
+#: signa.php:91
+msgid "Effective from"
+msgstr "Ingangsdatum"
+
+#: signa.php:92
+msgid "Enter code..."
+msgstr "Code invoeren"
+
+#: signa.php:93
+msgid "Enter name..."
+msgstr "Eigen receptnaam"
+
+#: signa.php:94
+msgid "Exclude from import"
+msgstr "Uitsluiten bij import"
+
+#: signa.php:95
+msgid "Field name"
+msgstr "Veld naam"
+
+#: signa.php:96
+msgid "Field type"
+msgstr "Veld type"
+
+#: signa.php:97
+msgid "Forget password"
+msgstr "Wachtwoord vergeten"
+
+#: signa.php:98
+msgid "From Lab"
+msgstr "Van Tandtechnische bedrijf"
+
+#: signa.php:99
+msgid "Full product import"
+msgstr "Volledige product import"
+
+#: signa.php:100
+msgid "General emailaddress"
+msgstr "Algemeen e-mailadres"
+
+#: signa.php:101
+msgid "Grand total"
+msgstr "Order totaal"
+
+#: signa.php:102
+msgid "Group"
+msgstr "Groep"
+
+#: signa.php:103 signa.php:477
+msgid "Group type"
+msgstr "Groep type"
+
+#: signa.php:104
+msgid "Hello"
+msgstr "Hallo"
+
+#: signa.php:105
+msgid "ID"
+msgstr "ID"
+
+#: signa.php:106
+msgid "Identity"
+msgstr "Identiteit"
+
+#: signa.php:107
+msgid "Images urls"
+msgstr "Afbeelding url"
+
+#: signa.php:108
+msgid "Import"
+msgstr "Import"
+
+#: signa.php:109
+msgid "Import log"
+msgstr "Import logboek"
+
+#: signa.php:110
+msgid "Import overview"
+msgstr "Import overzicht"
+
+#: signa.php:111
+msgid "Imports to approve"
+msgstr "Goed te keuren imports"
+
+#: signa.php:112 signa.php:420
+msgid "Inbox"
+msgstr "Inbox"
+
+#: signa.php:113
+msgid "Invite dentist"
+msgstr "Tandarts uitnodigen"
+
+#: signa.php:114
+msgid "Invoice No."
+msgstr "Factuurnummer"
+
+#: signa.php:115 signa.php:909
+msgid "Invoices"
+msgstr "Facturen"
+
+#: signa.php:116
+msgid "Lab"
+msgstr "Tandtechnische bedrijf"
+
+#: signa.php:117
+msgid "Lab invites you to be part of the group"
+msgstr ""
+"Dit Tandtechnische bedrijf heeft u uitgenodigd om deel te nemen aan "
+"Signadens "
+
+#: signa.php:118
+msgid "Ledger code"
+msgstr "Grootboeknummer"
+
+#: signa.php:119
+msgid "Ledger codes"
+msgstr "Grootboeknummers"
+
+#: signa.php:120
+msgid "Ledger codes (categories)"
+msgstr "Grootboeknummer (categorieën)"
+
+#: signa.php:121 signa.php:419
+msgid "Login"
+msgstr "Inloggen"
+
+#: signa.php:122
+msgid "Login as"
+msgstr "Inloggen als"
+
+#: signa.php:123 signa.php:907
+msgid "Manage categories"
+msgstr "Categorieën"
+
+#: signa.php:124
+msgid "Manage dentist"
+msgstr "Tandartsen"
+
+#: signa.php:125
+msgid "Manage Dentists"
+msgstr "Tandartsen"
+
+#: signa.php:126
+msgid "Manage ledger codes"
+msgstr "Grootboeknummers"
+
+#: signa.php:127
+msgid "Manage tariff codes"
+msgstr "Tariefcodes"
+
+#: signa.php:128
+msgid "Map columns"
+msgstr "Kolommen indelen"
+
+#: signa.php:129
+msgid "Map ledger and tariffs"
+msgstr "Tariefcodes koppelen aan grootboeknummers"
+
+#: signa.php:130
+msgid "Map ledger codes"
+msgstr "Grootboeknummers indelen"
+
+#: signa.php:131
+msgid "Map recipes"
+msgstr "Recepten koppelen"
+
+#: signa.php:132
+msgid "Map tariff codes"
+msgstr "Tariefcodes koppelen"
+
+#: signa.php:133
+msgid "Map to"
+msgstr "Koppel aan"
+
+#: signa.php:134
+msgid "Map to tariff code"
+msgstr "Koppel aan tariefcode"
+
+#: signa.php:135
+msgid "Map to:"
+msgstr "Koppel aan"
+
+#: signa.php:136
+msgid "Mark as unread"
+msgstr "Markeer als ongelezen"
+
+#: signa.php:137 signa.php:465
+msgid "Material"
+msgstr "Materiaal"
+
+#: signa.php:138
+msgid "My description"
+msgstr "Mijn omschrijving"
+
+#: signa.php:139
+msgid "My ledger code"
+msgstr "Mijn grootboeknummer"
+
+#: signa.php:140
+msgid "My recipe code"
+msgstr "Mijn receptnummer"
+
+#: signa.php:141
+msgid "My recipe name"
+msgstr "Mijn receptnaam"
+
+#: signa.php:142
+msgid "My tariff code"
+msgstr "Mijn tariefcode"
+
+#: signa.php:143
+msgid "My tariff price"
+msgstr "Mijn tariefcode prijs"
+
+#: signa.php:144 signa.php:847
+msgid "Name"
+msgstr "Naam"
+
+#: signa.php:145
+msgid "New import is waiting to approve."
+msgstr "Er staat een nieuwe import gereed om goed te keuren."
+
+#: signa.php:146
+msgid "New price"
+msgstr "Nieuwe prijs"
+
+#: signa.php:147
+msgid "New Product"
+msgstr "Nieuw product"
+
+#: signa.php:148
+msgid "New product data"
+msgstr "Nieuwe product informatie"
+
+#: signa.php:149
+msgid "New recipe"
+msgstr "Nieuw recept"
+
+#: signa.php:150 signa.php:912
+msgid "New step"
+msgstr "Nieuwe stap"
+
+#: signa.php:151
+msgid "No, don't add"
+msgstr "Annuleren"
+
+#: signa.php:152 signa.php:876
+msgid "Notifications"
+msgstr "Notificaties"
+
+#: signa.php:153
+msgid "ok"
+msgstr "Akkoord"
+
+#: signa.php:154
+msgid "Old price"
+msgstr "Prijs voor wijziging"
+
+#: signa.php:155
+msgid "Old Product"
+msgstr "Product voor wijziging"
+
+#: signa.php:156
+msgid "Old product data"
+msgstr "Product gegevens voor wijziging"
+
+#: signa.php:157
+msgid "or product"
+msgstr "of product"
+
+#: signa.php:158
+msgid "Order by"
+msgstr "Besteld door"
+
+#: signa.php:159
+msgid "Order date"
+msgstr "Besteldatum"
+
+#: signa.php:160
+msgid "Order history"
+msgstr "Bestelhistorie"
+
+#: signa.php:161
+msgid "Order no."
+msgstr "Bestelnummer"
+
+#: signa.php:162 signa.php:710
+msgid "Order"
+msgstr "Bestelling"
+
+#: signa.php:163
+msgid "Orderlist"
+msgstr "Bestellingen-lijst"
+
+#: signa.php:164
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: signa.php:165
+msgid "Orders history"
+msgstr "Orderhistorie"
+
+#: signa.php:166
+msgid "Organisation"
+msgstr "Organisatie"
+
+#: signa.php:167
+msgid "Organisations"
+msgstr "Organisaties"
+
+#: signa.php:168
+msgid "Overrule Ledger"
+msgstr "Grootboeknummer overschrijven"
+
+#: signa.php:169
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: signa.php:170
+msgid "Patient"
+msgstr "Patiënt"
+
+#: signa.php:171
+msgid "Permissions"
+msgstr "Rechten"
+
+#: signa.php:172 signa.php:428
+msgid "Phone"
+msgstr "Telefoon"
+
+#: signa.php:173
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+#: signa.php:174 signa.php:467
+msgid "Price"
+msgstr "Prijs incl. btw"
+
+#: signa.php:175
+msgid "Price per piece"
+msgstr "Prijs per stuk"
+
+#: signa.php:176
+msgid "Price type"
+msgstr "Prijs type"
+
+#: signa.php:177 signa.php:1319
+msgid "Product category"
+msgstr "Productcategorie"
+
+#: signa.php:178
+msgid "Product code"
+msgstr "Product code"
+
+#: signa.php:179
+msgid "Product description"
+msgstr "Product omschrijving"
+
+#: signa.php:180
+msgid "Product does not exist"
+msgstr "Product niet gevonden"
+
+#: signa.php:181 signa.php:918
+msgid "Product exist in this node"
+msgstr "Product niet gevonden in tak"
+
+#: signa.php:182
+msgid "Product import"
+msgstr "Product import"
+
+#: signa.php:183
+msgid "Product management"
+msgstr "Productbeheer"
+
+#: signa.php:184
+msgid "Product material"
+msgstr "Materiaal"
+
+#: signa.php:185
+msgid "Product name"
+msgstr "Productnaam"
+
+#: signa.php:186
+msgid "Product price"
+msgstr "Prijs"
+
+#: signa.php:187
+msgid "Product tree"
+msgstr "Productboom"
+
+#: signa.php:188
+msgid "Product updates"
+msgstr "Product updates"
+
+#: signa.php:189
+msgid "Products"
+msgstr "Producten"
+
+#: signa.php:190
+msgid "Project No"
+msgstr "Werkstuknummer"
+
+#: signa.php:191
+msgid "Project No."
+msgstr "Werkstuknummer"
+
+#: signa.php:192
+msgid "Push to delivery"
+msgstr "Zet order op afgeleverd"
+
+#: signa.php:193
+msgid "Read"
+msgstr "Bekijken"
+
+#: signa.php:194
+msgid "Ready for approval"
+msgstr "Gereed voor goedkeuring"
+
+#: signa.php:195
+msgid "Received"
+msgstr "Ontvangen"
+
+#: signa.php:196
+msgid "Recent orders"
+msgstr "Recente bestellingen"
+
+#: signa.php:197
+msgid "Recipe defaults"
+msgstr "Standaardwaarden recept"
+
+#: signa.php:198
+msgid "Recipe name"
+msgstr "Receptnaam"
+
+#: signa.php:199
+msgid "Recipe settings"
+msgstr "Instellingen"
+
+#: signa.php:200
+msgid "Recipe"
+msgstr "Recept"
+
+#: signa.php:201
+msgid "Recipes"
+msgstr "Recepten"
+
+#: signa.php:202 signa.php:431
+msgid "Registration"
+msgstr "Registratie"
+
+#: signa.php:203
+msgid "Related Products"
+msgstr "Gerelateerde producten"
+
+#: signa.php:204
+msgid "Related Recipes"
+msgstr "Gerelateerde recepten"
+
+#: signa.php:205
+msgid "Remark about denial"
+msgstr "Opmerkingen over afwijzing"
+
+#: signa.php:206
+msgid "Remember me"
+msgstr "Aangemeld blijven"
+
+#: signa.php:207
+msgid "remove"
+msgstr "Verwijderen"
+
+#: signa.php:208
+msgid "Request new password"
+msgstr "E-mailadres"
+
+#: signa.php:209
+msgid "Role"
+msgstr "Rol"
+
+#: signa.php:210
+msgid "Roles"
+msgstr "Rollen"
+
+#: signa.php:211
+msgid "Sales"
+msgstr "Verkoop"
+
+#: signa.php:212 signa.php:435 signa.php:883
+msgid "Save"
+msgstr "Opslaan"
+
+#: signa.php:213
+msgid "Search"
+msgstr "Zoeken"
+
+#: signa.php:214
+msgid "Select import type and file"
+msgstr "Select import type en bestand"
+
+#: signa.php:215
+msgid "Select ledger number"
+msgstr "Selecteer grootboeknummer"
+
+#: signa.php:216
+msgid "Select organisation"
+msgstr "Selecteer organisatie"
+
+#: signa.php:217
+msgid "Role has been edited."
+msgstr "Rol is aangepast"
+
+#: signa.php:218
+msgid "Select product from shortlist"
+msgstr "Selecteer product vanuit de shortlist"
+
+#: signa.php:219
+msgid "Select role"
+msgstr "Selecteer rol"
+
+#: signa.php:220
+msgid "Select Signadens tariff code"
+msgstr "Selecteer Signadens tariefcode"
+
+#: signa.php:221
+msgid "Select supplier"
+msgstr "Selecteer leverancier"
+
+#: signa.php:222
+msgid "Send Denial"
+msgstr "Afwijzing verzenden"
+
+#: signa.php:223
+msgid "Set category for selected"
+msgstr "Categorie instellen voor selectie"
+
+#: signa.php:224 signa.php:433
+msgid "Shortlist"
+msgstr "Shortlist"
+
+#: signa.php:225
+msgid "Your shortlist"
+msgstr "Uw shortlist"
+
+#: signa.php:226
+msgid "Show cart"
+msgstr "Winkelwagen bekijken"
+
+#: signa.php:227
+msgid "Signa Code"
+msgstr "Signadens code"
+
+#: signa.php:228
+msgid "Signa No."
+msgstr "Signadens nummer"
+
+#: signa.php:229
+msgid "Signadens database"
+msgstr "Signadens database"
+
+#: signa.php:230
+msgid "Signadens description"
+msgstr "Signadens Omschrijving"
+
+#: signa.php:231
+msgid "Signadens product name"
+msgstr "Signadens productnaam"
+
+#: signa.php:232
+msgid "Signadens tariff code"
+msgstr "Signadens tariefcode"
+
+#: signa.php:233
+msgid "Skip column"
+msgstr "Kolom overslaan"
+
+#: signa.php:234
+msgid "State"
+msgstr "Status"
+
+#: signa.php:235 signa.php:901
+msgid "Status"
+msgstr "Status"
+
+#: signa.php:236
+msgid "Street and number"
+msgstr "Straat en nummer"
+
+#: signa.php:237 signa.php:741 signa.php:877
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: signa.php:238
+msgid "Subtotal"
+msgstr "Subtotaal"
+
+#: signa.php:239
+msgid "Supplier"
+msgstr "Leverancier"
+
+#: signa.php:240
+msgid "Suppliers"
+msgstr "Leveranciers"
+
+#: signa.php:241
+msgid "suppliers"
+msgstr "leveranciers"
+
+#: signa.php:242
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: signa.php:243 signa.php:513
+msgid "Tariff code"
+msgstr "Tariefcode"
+
+#: signa.php:244
+msgid "Tariff codes"
+msgstr "Tariefcodes"
+
+#: signa.php:245
+msgid "Tariff codes with ledger number sales"
+msgstr "Tariefcodes"
+
+#: signa.php:246
+msgid "Time"
+msgstr "Tijd"
+
+#: signa.php:247
+msgid ""
+"To reset the password for the Signadens account associated with your email, "
+"click on the button below. If you don't want to reset your password, please "
+"disregard this email."
+msgstr ""
+"Geachte heer/mevrouw,\n"
+"\n"
+"U hebt aangegeven dat u een nieuw wachtwoord voor Signadens wilt instellen. "
+"Via de volgende link kunt u uw wachtwoord opnieuw instellen. Mocht u geen "
+"nieuw wachtwoord hebben aangevraagd of niet opnieuw willen instellen dan "
+"kunt u deze e-mail negeren. "
+
+#: signa.php:248
+msgid "Total"
+msgstr "Totaal"
+
+#: signa.php:249
+msgid "Total Ex. VAT"
+msgstr "Totaal"
+
+#: signa.php:250
+msgid "Total price"
+msgstr "Totaalprijs"
+
+#: signa.php:251 signa.php:908
+msgid "Tree categories"
+msgstr "Categorieboom "
+
+#: signa.php:252
+msgid "Type"
+msgstr "Type"
+
+#: signa.php:253
+msgid "User"
+msgstr "Gebruiker"
+
+#: signa.php:254
+msgid "Email"
+msgstr "E-mail"
+
+#: signa.php:255
+msgid "Username/Email"
+msgstr "Gebruikersnaam"
+
+#: signa.php:256
+msgid "Users"
+msgstr "Gebruikersbeheer"
+
+#: signa.php:257
+msgid "workdays"
+msgstr "Werkdagen"
+
+#: signa.php:258
+msgid "Yes, I need this for myself"
+msgstr "Ja, Ik wil dit voor mijzelf laten bestellen"
+
+#: signa.php:259
+msgid "Your code can not be empty."
+msgstr "Sorry, we hebben de code echt nodig"
+
+#: signa.php:260
+msgid "Your name can not be empty."
+msgstr "Sorry, we hebben je naam echt nodig."
+
+#: signa.php:261
+msgid "Your order"
+msgstr "Uw bestelling"
+
+#: signa.php:262
+msgid "Zip code"
+msgstr "Postcode"
+
+#: signa.php:263
+msgid "Zipcode"
+msgstr "Postcode"
+
+#: signa.php:264
+msgid "on"
+msgstr "op"
+
+#: signa.php:265
+msgid "Product update"
+msgstr "Producten update"
+
+#: signa.php:266
+msgid "In queue"
+msgstr "In wachtrij"
+
+#: signa.php:267
+msgid ""
+"Is this a general stock or for a specific project? If you enter a project "
+"number it will be saved to this product for tho order"
+msgstr ""
+"Is dit product voor de algemene voorraad of een specifiek project? Als u een "
+"werkstuk nummer invoert zal het worden opgeslagen bij de bestelling"
+
+#: signa.php:268
+msgid ""
+"This product is already on the order list and is waiting to be ordered by "
+"our company purcharser. Do you still want to add this on the order list for "
+"a specif project?"
+msgstr ""
+"Dit product zit al in uw winkelwagen om te worden besteld door de inkoper. "
+"Wilt u dit product nogmaals toevoegen aan de winkelwagen voor een specifiek "
+"werkstuk?"
+
+#: signa.php:269
+msgid "Product is already in the shortlist."
+msgstr "Dit product staat al op de shortlist."
+
+#: signa.php:270
+msgid "Product has been added to the shortlist."
+msgstr "Het product is toegevoegd aan de shortlist."
+
+#: signa.php:271
+msgid "Product is already in the cart."
+msgstr "Sorry, dit product zit al in uw winkelwagen."
+
+#: signa.php:272
+msgid "Product has been added to the cart."
+msgstr "Het product is in uw winkelwagen geplaatst."
+
+#: signa.php:273 signa.php:292 signa.php:315 signa.php:381
+msgid "Import data is missing."
+msgstr ""
+"Sorry, we missen bepaalde gegevens die nodig zijn om te importeren. Zou je "
+"de juiste gegevens willen aanleveren in het importbestand?"
+
+#: signa.php:274 signa.php:293 signa.php:382
+msgid "Map values are duplicated."
+msgstr ""
+"Sorry, we kunnen één kolom helaas maar koppelen aan één waarde. Op dit "
+"moment wordt een waarde meer dan eens gebruikt."
+
+#: signa.php:275
+msgid "There is no products to update."
+msgstr "Alle producten zijn al up to date."
+
+#: signa.php:276
+msgid "Order does not exist."
+msgstr "Sorry, we kunnen deze bestelling niet vinden."
+
+#: signa.php:277
+msgid "Your account is already connected with this lab."
+msgstr ""
+"Sorry, we kunnen je maar één keer koppelen en je bent al gekoppeld met dit "
+"Tandtechnische bedrijf."
+
+#: signa.php:278
+msgid "Successfully added your account to the lab clients."
+msgstr "Gelukt, je bent nu gekoppeld aan het Tandtechnische bedrijf."
+
+#: signa.php:279
+msgid "The information will be send to lab admin."
+msgstr ""
+"Deze informatie wordt verzonden naar de beheerder van het Tandtechnische "
+"bedrijf. "
+
+#: signa.php:280 signa.php:283
+msgid "Invalid url address."
+msgstr "Sorry, we hebben een kloppend web-adres (url) nodig. "
+
+#: signa.php:281
+msgid ""
+"Successfully created and added account to the lab clients. On the mail box "
+"will be send yours authorisation data."
+msgstr ""
+"Gelukt, we hebben een account voor u aangemaakt. U ontvangt uw inloggegevens "
+"per mail."
+
+#: signa.php:282
+msgid "There is an error with creating new account."
+msgstr "Sorry, we kunnen helaas geen nieuwe account aanmaken."
+
+#: signa.php:284 signa.php:373
+msgid "New tariff code has been added."
+msgstr "Gelukt, de nieuwe tariefcode is toegevoegd."
+
+#: signa.php:285 signa.php:374
+msgid "New tariff code cannot be added. Code must be unique"
+msgstr ""
+"Sorry, de tarief code moet echt uniek zijn willen we deze kunnen toevoegen."
+
+#: signa.php:286 signa.php:375
+msgid "Tariff code has been edited."
+msgstr "Gelukt, de tariefcode is bijgewerkt."
+
+#: signa.php:287 signa.php:376
+msgid "Tariff code cannot be edited."
+msgstr "Sorry, deze tariefcode kan niet worden gewijzigd"
+
+#: signa.php:288 signa.php:377
+msgid "Tariff code has been activated."
+msgstr "Gelukt, de tariefcode is geactiveerd."
+
+#: signa.php:289 signa.php:378
+msgid "Tariff code cannot be activated."
+msgstr "Sorry, de tariefcode kon niet worden geactiveerd."
+
+#: signa.php:290 signa.php:379
+msgid "Tariff code has been deactivated."
+msgstr "Gelukt, de tariefcode is niet meer actief."
+
+#: signa.php:291 signa.php:380
+msgid "Tariff code cannot be deactivated."
+msgstr "Sorry, we kunnen deze tariefcode niet deactiveren."
+
+#: signa.php:294 signa.php:298
+msgid "New invoice has been added."
+msgstr "Gelukt, de nieuwe factuur is aangemaakt."
+
+#: signa.php:295 signa.php:299
+msgid "New invoice cannot be added. Error corrupted"
+msgstr ""
+"Sorry, we doen iets niet goed, we kunnen de nieuwe factuur niet aanmaken. "
+
+#: signa.php:296
+msgid "New record has been added."
+msgstr "Gelukt, een nieuwe item is toegevoegd."
+
+#: signa.php:297
+msgid "New record cannot be added. Error corrupted"
+msgstr ""
+"Sorry, we doen iets niet goed, we kunnen het nieuwe item niet aanmaken. "
+
+#: signa.php:300
+msgid "Record has been edited."
+msgstr "Gelukt, het item is aangepast."
+
+#: signa.php:301
+msgid "Record cannot be edited. Error corrupted"
+msgstr "Sorry, we doen iets niet goed, we kunnen het item niet aanpassen."
+
+#: signa.php:302
+msgid "Invoice has been deleted."
+msgstr "Gelukt, de factuur is verwijderd."
+
+#: signa.php:303
+msgid "Record has been deleted."
+msgstr "Gelukt, het item is verwijderd."
+
+#: signa.php:304
+msgid "Record cannot be deleted. Error corrupted"
+msgstr "Sorry, we doen iets niet goed, we kunnen dit item niet verwijderen."
+
+#: signa.php:305
+msgid "New user has been added."
+msgstr "Gelukt, de nieuwe gebruiker is toegevoegd."
+
+#: signa.php:306
+msgid "User can't be added."
+msgstr ""
+"Sorry, we doen iets niet goed, we kunnen de nieuwe gebruiker niet toevoegen."
+
+#: signa.php:307 signa.php:351
+msgid "User has been edited."
+msgstr "Gelukt, de gebruiker is bijgewerkt."
+
+#: signa.php:308 signa.php:352
+msgid "User can't be edited."
+msgstr "Gebruiker kan niet worden bewerkt."
+
+#: signa.php:309
+msgid "User has been deleted."
+msgstr "Gelukt, de gebruiker is verwijderd."
+
+#: signa.php:310 signa.php:312 signa.php:314 signa.php:385 signa.php:386
+msgid "User doesn't exist."
+msgstr "Gebruiker bestaat niet."
+
+#: signa.php:311 signa.php:353 signa.php:384
+msgid "User has been deactivated."
+msgstr "Gelukt, de gebruiker is niet meer actief."
+
+#: signa.php:313 signa.php:355 signa.php:387
+msgid "User has been activated."
+msgstr "Gelukt, de gebruiker is nu actief."
+
+#: signa.php:316
+msgid "Successfully approved products and send information to supplier."
+msgstr ""
+"Gelukt, de producten zijn goedgekeurd en de informatie is verzonden naar de "
+"leverancier."
+
+#: signa.php:317
+msgid "Successfully declined products and send information to supplier."
+msgstr ""
+"Gelukt, de producten zijn afgewezen en de informatie hierover is verzonden "
+"naar de leverancier."
+
+#: signa.php:318
+msgid "There is no products to decline."
+msgstr ""
+"Sorry, we doen iets niet goed, er zijn geen producten om af te wijzen. "
+
+#: signa.php:319
+msgid "Successfully imported products."
+msgstr "Gelukt, de producten die je wilde importeren zijn opgeslagen."
+
+#: signa.php:320 signa.php:934
+msgid "Category has been added."
+msgstr "Gelukt, de categorie is toegevoegd."
+
+#: signa.php:321 signa.php:935
+msgid "Category can't be added."
+msgstr "Categorie kan niet worden toegevoegd."
+
+#: signa.php:322 signa.php:326 signa.php:936 signa.php:940
+msgid "Category has been edited."
+msgstr "Gelukt, de categorie is bijgewerkt."
+
+#: signa.php:323 signa.php:937 signa.php:941
+msgid "Category can't be edited."
+msgstr "Categorie kan niet worden bewerkt."
+
+#: signa.php:324 signa.php:938 signa.php:946
+msgid "Category has been deleted."
+msgstr "Gelukt, de categorie is verwijderd."
+
+#: signa.php:325 signa.php:939 signa.php:947
+msgid "Category can't be deleted because has active products."
+msgstr ""
+"Categorie kan niet worden verwijderd, omdat er actieve producten aan zijn "
+"gekoppeld."
+
+#: signa.php:327
+msgid "New recipe has been added."
+msgstr "Gelukt, het recept is toegevoegd."
+
+#: signa.php:328 signa.php:330 signa.php:393
+msgid "Something went wrong"
+msgstr ""
+"Sorry, we doen iets niet goed. Zou je het nogmaals willen proberen en anders "
+"contact op willen nemen met onze helpdesk?"
+
+#: signa.php:329 signa.php:392
+msgid "Recipe has been saved."
+msgstr "Gelukt, het recept is bijgewerkt."
+
+#: signa.php:331 signa.php:390
+msgid "Recipe has been deactivated."
+msgstr "Gelukt, het recept is niet meer actief."
+
+#: signa.php:332 signa.php:334 signa.php:336
+msgid "Recipe doesn't exist."
+msgstr "Recept bestaat niet."
+
+#: signa.php:333 signa.php:388
+msgid "Recipe has been activated."
+msgstr "Gelukt, het recept is nu actief."
+
+#: signa.php:335
+msgid "Recipe has been deleted."
+msgstr "Gelukt, het recept is verwijderd."
+
+#: signa.php:337 signa.php:365
+msgid "New ledger code has been added."
+msgstr "Gelukt, de grootboekrekening is toegevoegd."
+
+#: signa.php:338 signa.php:366
+msgid "New ledger code cannot be added. Code must be unique"
+msgstr ""
+"Sorry, de code van de grootboekrekening moet echt uniek zijn willen we deze "
+"kunnen toevoegen."
+
+#: signa.php:339 signa.php:367
+msgid "Ledger code has been edited."
+msgstr "Gelukt, de grootboekrekening is bijgewerkt."
+
+#: signa.php:340 signa.php:368
+msgid "Ledger code cannot be edited."
+msgstr ""
+"Sorry, we doen iets niet goed, we kunnen de aangepaste gegevens van de "
+"grootboekrekening niet bijwerken."
+
+#: signa.php:341 signa.php:369
+msgid "Ledger code has been activated."
+msgstr "Gelukt, De grootboekrekening is nu actief."
+
+#: signa.php:342 signa.php:370
+msgid "Ledger code cannot be activated."
+msgstr "Sorry, de grootboekrekening kon niet worden geactiveerd."
+
+#: signa.php:343 signa.php:371
+msgid "Ledger code has been deactivated."
+msgstr "Gelukt, de grootboekrekening is niet meer actief."
+
+#: signa.php:344 signa.php:372
+msgid "Ledger code cannot be deactivated."
+msgstr "Sorry, we kunnen deze grootboekrekening niet deactiveren."
+
+#: signa.php:345
+msgid "Order has been deleted."
+msgstr "Gelukt, de bestelling is verwijderd."
+
+#: signa.php:346
+msgid "Order doesn't exist."
+msgstr "Bestelling niet gevonden."
+
+#: signa.php:347
+msgid "Order has been completed."
+msgstr "Gelukt, de order is geplaatst."
+
+#: signa.php:348
+msgid "Order has been updated."
+msgstr "Gelukt, de order is bijgewerkt."
+
+#: signa.php:349 signa.php:699
+msgid "Product doesn't exist."
+msgstr "Product niet gevonden."
+
+#: signa.php:350
+msgid "Product has been added."
+msgstr "Gelukt, het product is toegevoegd."
+
+#: signa.php:354
+msgid "User is allready deactivated."
+msgstr "Sorry, we doen iets niet goed, deze gebruiker is al niet actief."
+
+#: signa.php:356
+msgid "User is allready activated."
+msgstr "Sorry, we doen iets niet goed, de gebruiker is al actief."
+
+#: signa.php:357
+msgid "Wrong email/password."
+msgstr ""
+"Sorry, we doen iets niet goed, we herkennen de combinatie van deze "
+"gebruikersnaam en het wachtwoord niet."
+
+#: signa.php:358
+msgid "There is no account associated to this email."
+msgstr "Sorry, we doen iets niet goed."
+
+#: signa.php:359
+msgid "Success! Please check your messages for an email reset password."
+msgstr ""
+"Gelukt, als je e-mailadres overeenkomt met je account is er een e-mail "
+"verzonden om je wachtwoord opnieuw in te stellen."
+
+#: signa.php:360
+msgid "Invalid reset code."
+msgstr ""
+"Sorry, we doen iets niet goed, we herkennen deze link niet om je wachtwoord "
+"opnieuw in te kunnen stellen."
+
+#: signa.php:361
+msgid "Password was already resetted."
+msgstr "Sorry, we doen iets niet goed. Het wachtwoord is al opnieuw ingesteld."
+
+#: signa.php:362
+msgid "New password has been send."
+msgstr "Gelukt, we hebben een nieuw tijdelijk wachtwoord opgestuurd."
+
+#: signa.php:363
+msgid "New countlist has been created."
+msgstr "Gelukt, de nieuwe tellijst is toegevoegd."
+
+#: signa.php:364
+msgid "Cannot create new countlist."
+msgstr "Sorry, we doen iets niet goed, we kunnen geen tellijst aanmaken."
+
+#: signa.php:383
+msgid "Product has been deleted from shortlist."
+msgstr "Gelukt, het product is verwijderd van de shortlist."
+
+#: signa.php:389
+msgid "Recipe cannot be activated."
+msgstr "Sorry, het recept kon niet worden geactiveerd."
+
+#: signa.php:391
+msgid "Recipe cannot be deactivated."
+msgstr "Sorry, we kunnen dit recept niet deactiveren."
+
+#: signa.php:394
+msgid "Your cart is empty."
+msgstr ""
+"Sorry, de winkelwagen is nog leeg. Als je een product hebt toegevoegd kan je "
+"de winkelwagen bekijken. "
+
+#: signa.php:395
+msgid "Your cart"
+msgstr "Uw besteloverzicht"
+
+#: signa.php:396
+msgid "Print"
+msgstr "Afdrukken"
+
+#: signa.php:397 signa.php:671
+msgid "update"
+msgstr "Bijwerken"
+
+#: signa.php:398 signa.php:670
+msgid "create"
+msgstr "Aanmaken"
+
+#: signa.php:399
+msgid "First name"
+msgstr "Voornaam"
+
+#: signa.php:400
+msgid "Last name"
+msgstr "Achternaam"
+
+#: signa.php:401
+msgid "Yes"
+msgstr "Ja"
+
+#: signa.php:402
+msgid "No"
+msgstr "Nee"
+
+#: signa.php:403
+msgid "Manual"
+msgstr "Handmatig"
+
+#: signa.php:404
+msgid "Sorry, that code is already taken."
+msgstr "Sorry, we doen iets niet goed, deze code is al in gebruik."
+
+#: signa.php:405
+msgid "Open"
+msgstr "Open"
+
+#: signa.php:406
+msgid "Progress"
+msgstr "Bezig"
+
+#: signa.php:407
+msgid "Complete"
+msgstr "Afgerond"
+
+#: signa.php:408
+msgid "Confirmed"
+msgstr "Bevestigd"
+
+#: signa.php:409
+msgid "On delivery"
+msgstr "Verstuurd"
+
+#: signa.php:410
+msgid "Delivered"
+msgstr "Afgeleverd"
+
+#: signa.php:411
+msgid "Composite"
+msgstr "Samengesteld prijs"
+
+#: signa.php:412
+msgid "Fixed"
+msgstr "Vaste prijs"
+
+#: signa.php:413
+msgid "Text"
+msgstr "Tekstveld"
+
+#: signa.php:414
+msgid "Checkboxes"
+msgstr "Aanvinklijst"
+
+#: signa.php:415
+msgid "Select list"
+msgstr "Dropdown selectieveld"
+
+#: signa.php:416
+msgid "Toggle navigation"
+msgstr "Navigatie openen/sluiten"
+
+#: signa.php:417
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: signa.php:418
+msgid "Back to admin"
+msgstr "Terug naar beheer"
+
+#: signa.php:421
+msgid "Good morning"
+msgstr "Goedemorgen"
+
+#: signa.php:422
+msgid "Good afternoon"
+msgstr "Goedemiddag"
+
+#: signa.php:423
+msgid "Good evening"
+msgstr "Goedenavond"
+
+#: signa.php:424
+msgid "Good night"
+msgstr "Goedenavond"
+
+#: signa.php:425
+msgid "Add new organisation"
+msgstr "Organisatie toevoegen"
+
+#: signa.php:426
+msgid "Organisation type"
+msgstr "Type organisatie"
+
+#: signa.php:427
+msgid "Edit user"
+msgstr "Gebruiker aanpassen"
+
+#: signa.php:430
+msgid "Add user"
+msgstr "Gebruiker toevoegen"
+
+#: signa.php:434
+msgid "Users with Role"
+msgstr "Gebruikers met deze rol"
+
+#: signa.php:437
+msgid "You've received the following order from lab"
+msgstr ""
+"U heeft onderstaande bestelling ontvangen van het Tandtechnische bedrijf "
+
+#: signa.php:438
+msgid "Open this order in"
+msgstr "Open deze order in"
+
+#: signa.php:439 signa.php:596
+msgid "Select type of import"
+msgstr "Type import"
+
+#: signa.php:440 signa.php:597
+msgid "Select file for import"
+msgstr "Kies een bestand"
+
+#: signa.php:441
+msgid "Next step"
+msgstr "Volgende"
+
+#: signa.php:442
+msgid "Previous step"
+msgstr "Vorige"
+
+#: signa.php:443
+msgid "OK"
+msgstr "Akkoord"
+
+#: signa.php:444
+msgid "ERROR"
+msgstr "Let op! Fout"
+
+#: signa.php:445
+msgid "ERRORS"
+msgstr "Let op! Fouten"
+
+#: signa.php:446
+msgid "import log"
+msgstr "Import logboek"
+
+#: signa.php:447
+msgid "products migration are in queue for approval."
+msgstr ""
+"De aanpassingen aan producten staan in de wachtrij om te worden goedgekeurd "
+"door Signadens."
+
+#: signa.php:448
+msgid "Once the import is approved the changes are visible for the Labs."
+msgstr ""
+"Nadat de import is goedgekeurd zijn de wijzigingen ook zichtbaar voor de "
+"Tandtechnische bedrijven."
+
+#: signa.php:449
+msgid "You can follow the status of the import of your"
+msgstr "Je kan de status van deze import volgen via het "
+
+#: signa.php:450
+msgid "or view the"
+msgstr "of bekijk het"
+
+#: signa.php:451
+msgid "Send instructions"
+msgstr "Verstuur instructies"
+
+#: signa.php:452
+msgid "Your email address"
+msgstr "Je e-mailadres"
+
+# This one is not relevant.
+#: signa.php:453
+msgid ""
+"Success: If there is an account associated, the email for password recovery "
+"is send."
+msgstr ""
+"Sorry, we doen iets niet goed. We kunnen je wachtwoord niet opnieuw "
+"instellen."
+
+#: signa.php:454
+msgid "Click on one of categories to go to the next step"
+msgstr "Klik op een categorie om naar de volgende stap te gaan"
+
+#: signa.php:455
+msgid "Product features"
+msgstr "Product eigenschappen"
+
+#: signa.php:456
+msgid "Add attachment(s)"
+msgstr "Bijlage(n) toevoegen"
+
+#: signa.php:457
+msgid "Add to order"
+msgstr "Toevoegen aan order"
+
+#: signa.php:458
+msgid "Order notes or remarks..."
+msgstr "Opmerkingen bij order"
+
+#: signa.php:459
+msgid "Date of birth"
+msgstr "Geboortedatum"
+
+#: signa.php:460
+msgid "Gender"
+msgstr "Geslacht"
+
+#: signa.php:461
+msgid "Male"
+msgstr "Man"
+
+#: signa.php:462
+msgid "Female"
+msgstr "Vrouw"
+
+#: signa.php:463
+msgid "Show"
+msgstr "Tonen"
+
+#: signa.php:464
+msgid "Select changes commencing date"
+msgstr "Selecteer startdatum wijzigingen"
+
+#: signa.php:466 signa.php:1192 signa.php:1216 signa.php:1225
+msgid "material"
+msgstr "materiaal"
+
+#: signa.php:469
+msgid "Url to the product image"
+msgstr "URL naar productafbeelding"
+
+#: signa.php:472
+msgid "Manufacturer"
+msgstr "Fabrikant"
+
+#: signa.php:473 signa.php:1193 signa.php:1220 signa.php:1229
+msgid "manufacturer"
+msgstr "producent"
+
+#: signa.php:474
+msgid "Minimal amount"
+msgstr "Minimale bestelhoeveelheid"
+
+#: signa.php:476
+msgid "Amount in one box"
+msgstr "Aantal in verpakking"
+
+#: signa.php:480
+msgid "Barcode supplier"
+msgstr "Barcode leverancier"
+
+#: signa.php:481 signa.php:1071
+msgid "Delivery time in days"
+msgstr "Levertijd in dagen"
+
+#: signa.php:482
+msgid "Key word for product searching"
+msgstr "Zoekwoord"
+
+#: signa.php:483
+msgid "Package unit"
+msgstr "Verpakkingseenheid"
+
+#: signa.php:484
+msgid "Optional order quantity"
+msgstr "Optionele bestelhoeveelheid"
+
+#: signa.php:485
+msgid "Recommended retail price"
+msgstr "Retail adviesprijs"
+
+#: signa.php:486
+msgid "External link to the product"
+msgstr "Externe URL naar product"
+
+#: signa.php:487
+msgid "External link to the product sheet"
+msgstr "Externe URL naar productinformatie"
+
+#: signa.php:488
+msgid "Patient data"
+msgstr "Patiënt-data"
+
+#: signa.php:489
+msgid "Order info"
+msgstr "Orderinformatie"
+
+#: signa.php:490
+msgid "Order messages"
+msgstr "Berichten bij order"
+
+#: signa.php:491
+msgid "New message about order"
+msgstr "Nieuw bericht over de order"
+
+#: signa.php:492
+msgid "Reply"
+msgstr "Reageren"
+
+#: signa.php:493
+msgid "Message has been added."
+msgstr "Aanpassingen zijn opgeslagen"
+
+#: signa.php:494
+msgid "Move to delivery"
+msgstr "Verplaats naar status 'verzonden'"
+
+#: signa.php:495
+msgid "Order has been moved to delivery."
+msgstr "De order heeft nu als status 'verzonden'."
+
+#: signa.php:496
+msgid "Send"
+msgstr "Verzenden"
+
+#: signa.php:497
+msgid "Employees"
+msgstr "Medewerkers"
+
+#: signa.php:498
+msgid "Attachment doesn't exist."
+msgstr "Bijlage niet gevonden"
+
+#: signa.php:499
+msgid "Recipe image"
+msgstr "Afbeelding van recept"
+
+#: signa.php:500
+msgid "new"
+msgstr "nieuw"
+
+#: signa.php:501
+msgid "codes are added"
+msgstr "codes zijn toegevoegd"
+
+#: signa.php:502
+msgid "Read aFt"
+msgstr "Lees aFt"
+
+#: signa.php:503
+msgid "Read at"
+msgstr "Lees bij"
+
+#: signa.php:504
+msgid "Content"
+msgstr "Inhoud"
+
+#: signa.php:505
+msgid "type"
+msgstr "type"
+
+#: signa.php:506
+msgid "Are you sure you want to leave?"
+msgstr "Wilt u deze pagina verlaten zonder op te slaan?"
+
+#: signa.php:507
+msgid "Confirmation"
+msgstr "Ja"
+
+#: signa.php:508
+msgid "Attention"
+msgstr "Attentie"
+
+#: signa.php:509
+msgid ""
+"This is a target price, the actual price will be calculation on production"
+msgstr ""
+"Genoemde prijs is de basisprijs. Bij eventueel meer- of extra werk kunnen er "
+"additionele kosten worden berekend."
+
+#: signa.php:510
+msgid ""
+"To add the project you need to set the minimum order amount quantity and "
+"optional set the tariff code for sales"
+msgstr ""
+"Om een project toe te voegen dient u een minimale bestelhoeveelheid en "
+"(optioneel) de tariefcode voor verkoop in te stellen."
+
+#: signa.php:511
+msgid "Min. order quantity"
+msgstr "Minimale bestelhoeveelheid"
+
+#: signa.php:512
+msgid "Usage"
+msgstr "Gebruik"
+
+#: signa.php:514
+msgid "Margin type"
+msgstr "Marge type"
+
+#: signa.php:515
+msgid "Margin value/percentage"
+msgstr "Marge waarde/percentage"
+
+#: signa.php:516
+msgid "Signadens code"
+msgstr "Signadens code"
+
+#: signa.php:517
+msgid "Search products"
+msgstr "Producten zoeken"
+
+#: signa.php:518
+msgid "Import list"
+msgstr "Importeer lijst"
+
+#: signa.php:519
+msgid "Add new user"
+msgstr "Nieuwe gebruiker toevoegen"
+
+#: signa.php:520
+msgid "Selected"
+msgstr "Geselecteerd"
+
+#: signa.php:521
+msgid "Reset role for users"
+msgstr "Rol resetten"
+
+#: signa.php:522
+msgid "Edit role"
+msgstr "Rol bewerken"
+
+#: signa.php:523
+msgid "has imported"
+msgstr "is geïmporteerd"
+
+#: signa.php:524
+msgid "with deadline"
+msgstr "met als deadline"
+
+#: signa.php:525
+msgid "Check them out to approve or decline"
+msgstr "Bekijk om te accepteren of afwijzen"
+
+#: signa.php:526
+msgid "this import"
+msgstr "deze import"
+
+#: signa.php:527
+msgid "Import product"
+msgstr "Importeer product"
+
+#: signa.php:528
+msgid "Import codes DONE!"
+msgstr "Importeren van de codes afgerond."
+
+#: signa.php:529
+msgid "Send reply"
+msgstr "Reactie verzenden"
+
+#: signa.php:530
+msgid "Your reply has been send."
+msgstr "Uw reactie is verzonden."
+
+#: signa.php:531
+msgid "Your message cannot be created."
+msgstr "Uw bericht kan niet worden aangemaakt."
+
+#: signa.php:532
+msgid "Import by"
+msgstr "Import door"
+
+#: signa.php:533
+msgid "Product Code"
+msgstr "Productcode "
+
+#: signa.php:534
+msgid "Product Name"
+msgstr "Productnaam"
+
+#: signa.php:535
+msgid "show more"
+msgstr "Alles tonen"
+
+#: signa.php:536
+msgid "Order product for project"
+msgstr "Bestel product voor project"
+
+#: signa.php:537
+msgid "Product already on order list"
+msgstr "Product zit al in de winkelwagen"
+
+#: signa.php:538
+msgid "Error"
+msgstr "Mislukt"
+
+#: signa.php:539
+msgid "Success"
+msgstr "Geslaagd"
+
+#: signa.php:540
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: signa.php:541
+msgid "Edit product"
+msgstr "Bewerk product"
+
+#: signa.php:542
+msgid "Change margin price"
+msgstr "Wijzig marge prijs"
+
+#: signa.php:543
+msgid "Product has been edited."
+msgstr "Product is aangepast"
+
+#: signa.php:544
+msgid "Product has not been edited."
+msgstr "Product is niet aangepast."
+
+#: signa.php:545
+msgid "Product quantity has been added."
+msgstr "Het product is in de winkelwagen geplaatst."
+
+#: signa.php:546
+msgid "An error occurred during saving data."
+msgstr "Er ging iets fout tijdens het opslaan van de gegevens."
+
+#: signa.php:547
+msgid "Margin values has been updated."
+msgstr "Marge waarden zijn geüpdatet "
+
+#: signa.php:548
+msgid "Owner"
+msgstr "Eigenaar"
+
+#: signa.php:549
+msgid "Upload date"
+msgstr "Uploaddatum"
+
+#: signa.php:550
+msgid "File size"
+msgstr "Bestandsgrootte"
+
+#: signa.php:551
+msgid "Shared with"
+msgstr "Gedeeld met"
+
+#: signa.php:552
+msgid "cancel"
+msgstr "cancelen"
+
+#: signa.php:553
+msgid "File has been added."
+msgstr "Bestand is toegevoegd."
+
+#: signa.php:554
+msgid "A file is missing."
+msgstr "Bestand ontbreekt."
+
+#: signa.php:555
+msgid "File cannot be saved."
+msgstr "Bestand kan niet worden opgeslagen."
+
+#: signa.php:556
+msgid "Edit share"
+msgstr "Bewerk delen"
+
+#: signa.php:557
+msgid "Share"
+msgstr "Delen"
+
+#: signa.php:558
+msgid "Select the organisation you want to share the file with"
+msgstr "Selecteer de organisatie met wie u het bestand wenst te delen"
+
+#: signa.php:559
+msgid ""
+"After you've clicked on the share button the user will be notified of the "
+"new file. You can always revoke access."
+msgstr ""
+"Nadat u op de deel knop heeft geklikt wordt de gebruiker geïnformeerd over "
+"het nieuwe bestand. U kunt de toegang ook weer intrekken."
+
+#: signa.php:560
+msgid "Users were invited and get notifications."
+msgstr "Gebruikers zijn uitgenodigd en hebben een notificatie ontvangen."
+
+#: signa.php:561
+msgid "Successfully deleted file."
+msgstr "Bestand succesvol verwijderd."
+
+#: signa.php:562
+msgid "File does not exist."
+msgstr "Bestand bestaat niet."
+
+#: signa.php:563
+msgid "Successfully accepted request."
+msgstr "Verzoek geaccepteerd."
+
+#: signa.php:564
+msgid "In your file list is added new file."
+msgstr "Er is een nieuw bestand toegevoegd aan uw bestandsoverzicht."
+
+#: signa.php:565
+msgid "Files share permission"
+msgstr "Rechten bestand delen"
+
+#: signa.php:566
+msgid "Allow user files share"
+msgstr "Bestand delen gebruiker toestaan"
+
+#: signa.php:567
+msgid "Create new custom field"
+msgstr "Nieuw veld aanmaken"
+
+#: signa.php:568
+msgid "Enter the label, select type and options"
+msgstr "Voer het label in, selecteer type en opties"
+
+#: signa.php:569
+msgid "Field label"
+msgstr "Veld label"
+
+#: signa.php:570
+msgid "Field options"
+msgstr "Veld opties"
+
+#: signa.php:571
+msgid "Order code"
+msgstr "Bestelnummer"
+
+#: signa.php:572
+msgid "Recipe list"
+msgstr "Receptlijst"
+
+#: signa.php:573
+msgid "Invited"
+msgstr "Uitgenodigd"
+
+#: signa.php:574
+msgid "Pending"
+msgstr "Uitgenodigd"
+
+#: signa.php:575
+msgid "Accepted"
+msgstr "Geaccepteerd"
+
+#: signa.php:576
+msgid "Denied"
+msgstr "Afgewezen"
+
+#: signa.php:577
+msgid "Revoke access"
+msgstr "Toegang intrekken"
+
+#: signa.php:578
+msgid "Resend invitation"
+msgstr "Uitnodiging opnieuw verzenden"
+
+#: signa.php:579
+msgid "User is revoked"
+msgstr "Toegang voor gebruiker is ingetrokken."
+
+#: signa.php:580
+msgid "Cannot do this operation"
+msgstr "Kan deze actie niet uitvoeren"
+
+#: signa.php:581
+msgid "To the project"
+msgstr "Naar het project "
+
+#: signa.php:582
+msgid "is added a new file"
+msgstr "heeft een nieuw bestand toegevoegd"
+
+#: signa.php:583
+msgid ""
+"By entering a dentist admin e-mailadres you'll be able to invite them. If "
+"this dentist isn' registered they will receive an email to create an account."
+msgstr ""
+"Door een administrator e-mailadres voor een tandarts in te voeren kunt u een "
+"uitnodiging sturen. Als de tandarts nog niet geregistreerd staat in de "
+"applicatie krijgt hij of zij het verzoek om een account aan te maken."
+
+#: signa.php:584
+msgid "Admin E-mail"
+msgstr "Administrator e-mailadres "
+
+#: signa.php:585
+msgid "Invitation to cooperate with"
+msgstr "Uitnodiging om samen te werken met"
+
+#: signa.php:586
+msgid "Dental group invites you to be part of the group"
+msgstr "De tandartsgroep nodigt u uit om deel te zijn van de groep"
+
+#: signa.php:587
+msgid "An error occurred while sending the message."
+msgstr "Er is iets fout gegaan tijdens het versturen van het bericht."
+
+#: signa.php:588
+msgid "Message has been sended to the denstist."
+msgstr "Er is een bericht verstuurd naar de tandarts."
+
+#: signa.php:589
+msgid "Project invitation."
+msgstr "Project uitnodiging"
+
+#: signa.php:590
+msgid "Project invitation"
+msgstr "Uitnodiging voor project"
+
+#: signa.php:591
+msgid "Cooperate invitation"
+msgstr "Uitnodiging voor samenwerking"
+
+#: signa.php:592
+msgid "Cooperate invitation."
+msgstr "Uitnodiging om samen te werken"
+
+#: signa.php:593
+msgid "File share"
+msgstr "Bestandsdeling "
+
+#: signa.php:594
+msgid "has been moved to delivery"
+msgstr "is gemarkeerd als 'verzonden'"
+
+#: signa.php:595 signa.php:887
+msgid "Image"
+msgstr "Afbeelding"
+
+#: signa.php:598
+msgid "You'll only import changes to exisiting products."
+msgstr "U importeert alleen wijzigingen op bestaande producten."
+
+#: signa.php:599
+msgid "Save and complete count"
+msgstr "Tellijst bewaren en afronden"
+
+#: signa.php:600
+msgid "Save count"
+msgstr "Tellijst bewaren"
+
+#: signa.php:601
+msgid "Fixed price (all in one price, additional supplied product excluded)"
+msgstr ""
+"Vaste prijs (alles in een prijs, extra geleverde producten uitgesloten)"
+
+#: signa.php:602
+msgid "Composite price (calculate price based on tariff codes)"
+msgstr "Samengestelde prijs (prijs op basis van tariefcodes)"
+
+#: signa.php:603
+msgid "Invite dentist as new client"
+msgstr "Nodig tandarts uit als nieuwe klant"
+
+#: signa.php:604
+msgid "Up"
+msgstr "Naar boven"
+
+#: signa.php:605
+msgid "Down"
+msgstr "Naar beneden"
+
+#: signa.php:606
+msgid "Decimal"
+msgstr "Decimaal"
+
+#: signa.php:607
+msgid "Integer"
+msgstr "Interger"
+
+#: signa.php:608
+msgid "Changed order status to the delivery and send notification."
+msgstr "Order status aangepast naar Afleveren en notificatie  verzonden"
+
+#: signa.php:609
+msgid "No selected"
+msgstr "Niet geselecteerd"
+
+#: signa.php:610
+msgid "General message"
+msgstr "Algemeen bericht"
+
+#: signa.php:611
+msgid "Import - decline"
+msgstr "Import - afwijzen"
+
+#: signa.php:612
+msgid "Options"
+msgstr "Opties"
+
+#: signa.php:613
+msgid "Edit ledger code"
+msgstr "Bewerk grootboeknummers"
+
+#: signa.php:614
+msgid "Edit tariff code"
+msgstr "Bewerk tariefcodes"
+
+#: signa.php:615
+msgid "Maps have been saved."
+msgstr "Koppelingen zijn opgeslagen."
+
+#: signa.php:616
+msgid "None map has been created or updated."
+msgstr "Er zijn geen Koppelingen aangemaakt of geüpdatet. "
+
+#: signa.php:617
+msgid "Products tree"
+msgstr "Productboom"
+
+#: signa.php:618
+msgid "Products tree preview"
+msgstr "Productboom preview"
+
+#: signa.php:619 signa.php:893
+msgid "Product categories"
+msgstr "Product categorieën "
+
+#: signa.php:620 signa.php:664
+msgid "Receiver (dentist)"
+msgstr "Ontvanger (tandarts)"
+
+#: signa.php:621
+msgid "Tax"
+msgstr "BTW"
+
+#: signa.php:622
+msgid "Sender (lab)"
+msgstr "Verzender (tandtechnisch bedrijf)"
+
+#: signa.php:623
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: signa.php:624
+msgid "Download"
+msgstr "Downloaden"
+
+#: signa.php:625
+msgid "Product minimal amount"
+msgstr "Product minimaal aantal"
+
+#: signa.php:626
+msgid "Round direction"
+msgstr "Afrondingsrichting"
+
+#: signa.php:627
+msgid "Round type"
+msgstr "Afrondingstype"
+
+#: signa.php:628
+msgid "New countlist"
+msgstr "Nieuwe tellijst"
+
+#: signa.php:629 signa.php:903
+msgid "View"
+msgstr "Tonen"
+
+#: signa.php:630
+msgid "Add tariff code"
+msgstr "Tariefcode toevoegen"
+
+#: signa.php:631
+msgid "Product"
+msgstr "Product"
+
+#: signa.php:632
+msgid "Add ledger code"
+msgstr "Grootboekrekening toevoegen"
+
+#: signa.php:633
+msgid "Select culumns map"
+msgstr "Selecteer kolom format"
+
+#: signa.php:634
+msgid "Encountered errors"
+msgstr "Meldingen:"
+
+#: signa.php:635
+msgid "tariff"
+msgstr "tarief"
+
+#: signa.php:636
+msgid "ledger"
+msgstr "grootboek"
+
+#: signa.php:637
+msgid "Description can not be empty."
+msgstr "Omschrijving mag niet leeg zijn."
+
+#: signa.php:638
+msgid "Group type can not be empty."
+msgstr "Groepstype mag niet leeg zijn."
+
+#: signa.php:639
+msgid "Balance type can not be empty."
+msgstr "Balanstype mag niet leeg zijn"
+
+#: signa.php:640
+msgid "Balance side can not be empty."
+msgstr "Balanszijde mag niet leeg zijn."
+
+#: signa.php:641
+msgid "Name can not be empty."
+msgstr "Naam mag niet leeg zijn."
+
+#: signa.php:642
+msgid "Price can not be empty."
+msgstr "Prijs mag niet leeg zijn."
+
+#: signa.php:643
+msgid "Code can not be empty."
+msgstr "Code mag niet leeg zijn."
+
+#: signa.php:644
+msgid "Description supplier can not be empty."
+msgstr "Omschrijving leverancier mag niet leeg zijn."
+
+#: signa.php:645
+msgid "Package unit can not be empty."
+msgstr "Verpakkingseenheid mag niet leeg zijn."
+
+#: signa.php:646
+msgid "Delivery time can not be empty."
+msgstr "Levertijd mag niet leeg zijn."
+
+#: signa.php:647
+msgid "File name"
+msgstr "Bestandsnaam"
+
+#: signa.php:648
+msgid "Commencing date"
+msgstr "Aanvangsdatum"
+
+#: signa.php:649
+msgid "New order"
+msgstr "Nieuwe order"
+
+#: signa.php:650 signa.php:672
+msgid "Files"
+msgstr "Bestanden"
+
+#: signa.php:651
+msgid "Select columns"
+msgstr "Selecteer kolommen"
+
+#: signa.php:652
+msgid "Show all"
+msgstr "Toon alles"
+
+#: signa.php:653
+msgid "Show default"
+msgstr "Toon standaard"
+
+#: signa.php:654 signa.php:845
+msgid "Add new product category"
+msgstr "Nieuwe product categorie toevoegen"
+
+#: signa.php:655
+msgid "Add new invoice"
+msgstr "Nieuwe factuur toevoegen"
+
+#: signa.php:656
+msgid "Client name"
+msgstr "Naam klant"
+
+#: signa.php:657
+msgid "Client address"
+msgstr "Adres klant"
+
+#: signa.php:658
+msgid "Invoice date"
+msgstr "Factuurdatum"
+
+#: signa.php:659
+msgid "Client name continue"
+msgstr "Achternaam klant"
+
+#: signa.php:660
+msgid "Client zip code"
+msgstr "Postcode klant"
+
+#: signa.php:662
+msgid "Client city"
+msgstr "Plaats klant"
+
+#: signa.php:663
+msgid "Add new record to the invoice"
+msgstr "Nieuwe regel aan factuur toevoegen"
+
+#: signa.php:665
+msgid "Edit invoice"
+msgstr "Factuur bewerken"
+
+#: signa.php:666
+msgid "Remove from shortlist"
+msgstr "Verwijderen van shortlist"
+
+#: signa.php:668 signa.php:881
+msgid "Edit product category"
+msgstr "Productcategorie bewerken"
+
+#: signa.php:669
+msgid "success"
+msgstr "geslaagd"
+
+#: signa.php:673
+msgid "There is no product avilable for you yet"
+msgstr "Er zijn nog geen producten beschikbaar voor u."
+
+#: signa.php:674
+msgid "Reset your password"
+msgstr "Wachtwoord opnieuw instellen"
+
+#: signa.php:675
+msgid "Welcome in Signadens"
+msgstr "Welkom bij Signadens"
+
+#: signa.php:676
+msgid "Here is your login and password to system"
+msgstr "Hierbij sturen wij u uw gebruikersnaam en wachtwoord."
+
+#: signa.php:677
+msgid "New password"
+msgstr "Nieuw wachtwoord"
+
+#: signa.php:678
+msgid "New password has been generated"
+msgstr "Er is een wachtwoord gegenereerd"
+
+#: signa.php:679
+msgid "Manage dentist groups"
+msgstr "Tandartsgroep beheren"
+
+#: signa.php:680
+msgid "Dentists groups"
+msgstr "Tandartsgroepen"
+
+#: signa.php:681
+msgid "Select groups"
+msgstr "Groep(en) selecteren"
+
+#: signa.php:682
+msgid "New discount"
+msgstr "Korting"
+
+#: signa.php:683
+msgid "Percentage"
+msgstr "Percentage"
+
+#: signa.php:684
+msgid "Add dentist group"
+msgstr "Tandartsgroep toevoegen"
+
+#: signa.php:685
+msgid "Discount dentist groups"
+msgstr "Korting tandartsgroep"
+
+#: signa.php:686
+msgid "Are you sure you want to delete?"
+msgstr "Weet u zeker dat u wilt verwijderen?"
+
+#: signa.php:687
+msgid "Dentist group discount has been deleted."
+msgstr "De korting van de tandartsgroep is verwijderd"
+
+#: signa.php:688
+msgid "Dentist group discount doesnt exist."
+msgstr "Korting tandartsgroep bestaat niet"
+
+#: signa.php:689
+msgid "already has discount for this product."
+msgstr "heeft al korting op dit product"
+
+#: signa.php:690
+msgid "Dentist group discount has been added."
+msgstr "Korting tandartsgroep is toegevoegd"
+
+#: signa.php:691
+msgid "Dentist group discount has not been added."
+msgstr "Korting tandartsgroep is niet toegevoegd."
+
+#: signa.php:692
+msgid "If you don't select any product, margin will be set for all products"
+msgstr ""
+"Wanneer u geen product selecteert wordt de marge gebruikt voor alle "
+"producten."
+
+#: signa.php:693
+msgid "Key words can not be empty."
+msgstr "Keywords mag niet leeg zijn."
+
+#: signa.php:694
+msgid "Client country"
+msgstr "Land client"
+
+#: signa.php:695
+msgid "More details"
+msgstr "Tonen"
+
+#: signa.php:696
+msgid "Product list"
+msgstr "Productoverzicht"
+
+#: signa.php:697
+msgid "Supplier name"
+msgstr "Naam leverancier"
+
+#: signa.php:698
+msgid "Product has been deleted."
+msgstr "Product is verwijderd."
+
+#: signa.php:700
+msgid "Product edit"
+msgstr "Product bewerken"
+
+#: signa.php:701
+msgid "Key words"
+msgstr "Keywords"
+
+#: signa.php:702
+msgid "Retail price"
+msgstr "Retailprijs"
+
+#: signa.php:703
+msgid "External link"
+msgstr "Externe link "
+
+#: signa.php:704
+msgid "Product ID"
+msgstr "Product ID"
+
+#: signa.php:705
+msgid "External link productsheet"
+msgstr "Externe link productblad"
+
+#: signa.php:706
+msgid "Amount min"
+msgstr "Minimaal aantal"
+
+#: signa.php:707 signa.php:920
+msgid "Inactive"
+msgstr "Inactief"
+
+#: signa.php:708
+msgid "Declined"
+msgstr "Afgewezen"
+
+#: signa.php:709
+msgid "Deleted"
+msgstr "Verwijderd"
+
+#: signa.php:711
+msgid "New file share"
+msgstr "Nieuwe bestandsdeling"
+
+#: signa.php:712
+msgid "Order moved to delivery"
+msgstr "Status bestelling naar ‘bezorgen’"
+
+#: signa.php:713
+msgid "Import code"
+msgstr "Importeer code"
+
+#: signa.php:714
+msgid "Import declined"
+msgstr "Import afgewezen"
+
+#: signa.php:715
+msgid "Import approved"
+msgstr "Import geaccepteerd"
+
+#: signa.php:716
+msgid "Order update"
+msgstr "Update order"
+
+#: signa.php:717
+msgid "Leave project"
+msgstr "Project verlaten"
+
+#: signa.php:718
+msgid "Manage users"
+msgstr "Beheer gebruikers"
+
+#: signa.php:719
+msgid "Task"
+msgstr "Taak"
+
+#: signa.php:720
+msgid "Tasks"
+msgstr "Taken"
+
+#: signa.php:721
+msgid "New task"
+msgstr "Nieuwe taak"
+
+#: signa.php:722
+msgid "Task decsription"
+msgstr "Omschrijving taak"
+
+#: signa.php:723
+msgid "Created by"
+msgstr "Aangemaakt door"
+
+#: signa.php:724
+msgid "Assignee"
+msgstr "Toegewezen aan"
+
+#: signa.php:725
+msgid "Create date"
+msgstr "Aanmaakdatum"
+
+#: signa.php:726
+msgid "Deadline"
+msgstr "Deadline"
+
+#: signa.php:727
+msgid "Title"
+msgstr "Titel"
+
+#: signa.php:728
+msgid "New task has been added."
+msgstr "De nieuwe taak is toegevoegd."
+
+#: signa.php:729
+msgid "Task can't be added."
+msgstr "De taak kan niet worden toegevoegd."
+
+#: signa.php:730
+msgid "Edit task"
+msgstr "Bewerkt taak"
+
+#: signa.php:731
+msgid "Select users"
+msgstr "Selecteer gebruikers"
+
+#: signa.php:732
+msgid "Task state has been changed."
+msgstr "Status van de taak is gewijzigd"
+
+#: signa.php:733
+msgid "Task state hasn't been changed."
+msgstr "Status van de taak is niet gewijzigd."
+
+#: signa.php:734
+msgid "Task has been deleted."
+msgstr "Taak is verwijderd."
+
+#: signa.php:735
+msgid "Task hasn't been deleted."
+msgstr "Taak is niet verwijderd."
+
+#: signa.php:736
+msgid "Close task"
+msgstr "Sluit taak"
+
+#: signa.php:737
+msgid "Open task"
+msgstr "Open taak"
+
+#: signa.php:738
+msgid "New task in project"
+msgstr "Nieuwe taak in het project"
+
+#: signa.php:739
+msgid "You are assigned to new task"
+msgstr "Er is je een nieuwe taak toegewezen"
+
+#: signa.php:740
+msgid "Delete image"
+msgstr "Verwijder afbeelding"
+
+#: signa.php:742
+msgid "Created date"
+msgstr "Aanmaakdatum"
+
+#: signa.php:743
+msgid "Notes"
+msgstr "Notities"
+
+#: signa.php:744
+msgid "Upload file"
+msgstr "Upload bestand"
+
+#: signa.php:745
+msgid "New note"
+msgstr "Nieuwe notitie"
+
+#: signa.php:746
+msgid "Note has been added."
+msgstr "Notitie is toegevoegd."
+
+#: signa.php:747
+msgid "Note cannot be saved."
+msgstr "Notitie kan niet worden opgeslagen."
+
+#: signa.php:748
+msgid "New note has been updated."
+msgstr "Nieuwe notitie is geupdatet."
+
+#: signa.php:749
+msgid "New note has been added."
+msgstr "Nieuwe notitie is toegevoegd."
+
+#: signa.php:750
+msgid "Not exist."
+msgstr "Bestaat niet. "
+
+#: signa.php:751
+msgid "Successfully deleted."
+msgstr "Succesvol verwijderd."
+
+#: signa.php:752
+msgid "Package unit. Wrong format."
+msgstr "Verpakkingseenheid is verkeerd ingevoerd."
+
+#: signa.php:753
+msgid "Delivery time. Wrong format."
+msgstr "Levertijd is verkeerd ingevoerd."
+
+#: signa.php:754
+msgid "Product details"
+msgstr "Productdetails"
+
+#: signa.php:755
+msgid ""
+"Is it necessary the order is delivered sooner than the first shown date? "
+"Contact the lab by phone:"
+msgstr ""
+"Betreft het een spoedorder waarbij levering voor de eerst beschikbare datum "
+"noodzakelijk is? Neem dan telefonisch contact op met het betreffende "
+"tandtechnisch bedrijf: "
+
+#: signa.php:756
+msgid "Download attachment"
+msgstr "Download bijlage"
+
+#: signa.php:757
+msgid "Delivery adress"
+msgstr "Afleveradres"
+
+#: signa.php:758
+msgid "Delivery"
+msgstr "Leverdatum"
+
+#: signa.php:759 signa.php:1333
+msgid "Attachment(s)"
+msgstr "Bijlage(n)"
+
+#: signa.php:760
+msgid "You've received the following order"
+msgstr "U heeft deze bestelling ontvangen"
+
+#: signa.php:761
+msgid "Add new tariff code"
+msgstr "Voeg nieuwe tariefcode toe"
+
+#: signa.php:762
+msgid "Add product to favourites"
+msgstr "Voeg product toe aan shortlist"
+
+#: signa.php:763
+msgid "Categorize"
+msgstr "Categoriseer"
+
+#: signa.php:764
+msgid "Set to delivery"
+msgstr "Zet order op afgeleverd"
+
+#: signa.php:765
+msgid "Status change"
+msgstr "Statuswijziging"
+
+#: signa.php:766
+msgid "Wall"
+msgstr "Chat"
+
+#: signa.php:767
+msgid "Project created"
+msgstr "Project aangemaakt"
+
+#: signa.php:768
+msgid "Last edit in project"
+msgstr "Laatste wijziging in dit project"
+
+#: signa.php:769
+msgid "You can start typing message here"
+msgstr "Typ hier uw bericht"
+
+#: signa.php:770
+msgid "typing"
+msgstr "aan het typen"
+
+#: signa.php:771
+msgid "Add file"
+msgstr "Bestand toevoegen"
+
+#: signa.php:772
+msgid "Select a file on your computer to upload"
+msgstr "Selecteer het bestand dat u wilt uploaden van uw computer"
+
+#: signa.php:773
+msgid "Are you sure you want to remove this order?"
+msgstr "Weet u zeker dat u deze bestelling wilt verwijderen?"
+
+#: signa.php:774
+msgid "Are you sure you want to remove this product from the orderlist?"
+msgstr "Weet u zeker dat u dit product wilt verwijderen uit uw winkelwagen? "
+
+#: signa.php:775
+msgid "Save all changes"
+msgstr "Alle wijzigingen opslaan"
+
+#: signa.php:776
+msgid "Orders in progress"
+msgstr "Lopende bestellingen"
+
+#: signa.php:777
+msgid "Incoming orders"
+msgstr "Nieuwe orders"
+
+#: signa.php:778
+msgid "Yes, I am sure"
+msgstr "Ja, ik weet het zeker"
+
+#: signa.php:779
+msgid "ordered by"
+msgstr "besteld door"
+
+#: signa.php:780
+msgid "ordered from department"
+msgstr "besteld vanaf afdeling"
+
+#: signa.php:781
+msgid "Move to In progress"
+msgstr "Bevestig ontvangst"
+
+#: signa.php:782
+msgid "Order has been moved to In progress"
+msgstr "Order is bevestigd en verplaatst naar 'Lopende orders'"
+
+#: signa.php:783
+msgid "In progress"
+msgstr "Lopende orders"
+
+#: signa.php:784 signa.php:911
+msgid "Helpdesk"
+msgstr "Helpdesk"
+
+#: signa.php:785
+msgid "Complete edit"
+msgstr "Wijzigingen opslaan"
+
+#: signa.php:786
+msgid "Helpdesk page editor"
+msgstr "Helpdesk-pagina bewerken"
+
+#: signa.php:787
+msgid "received"
+msgstr "ontvangen"
+
+#: signa.php:788
+msgid "Changes have been saved"
+msgstr "Gelukt, de wijzigingen zijn opgeslagen"
+
+#: signa.php:789
+msgid "Changes have not been saved"
+msgstr "De wijzigingen zijn niet opgeslagen."
+
+#: signa.php:790
+msgid "Move to order history"
+msgstr "Verplaats naar bestelhistorie"
+
+#: signa.php:791
+msgid "Not all products in this order have been received yet"
+msgstr "Nog niet alle producten van deze bestelling zijn ontvangen"
+
+#: signa.php:792
+msgid "Not all products in this order are sent yet"
+msgstr "Nog niet alle producten in deze order zijn verstuurd."
+
+#: signa.php:793
+msgid "New"
+msgstr "Nieuw"
+
+#: signa.php:794
+msgid ""
+"This is a rush order. Please contact me to discuss the possibility of an "
+"earlier delivery."
+msgstr ""
+"Dit is een spoedorder. Neem alstublieft contact met mij op om de "
+"mogelijkheden van een snellere levering te bespreken."
+
+#: signa.php:795
+msgid ""
+"This is a rush order. Please contact the dentist to discuss the possibility "
+"of an earlier delivery."
+msgstr ""
+"Dit betreft een spoedorder. Neem alstublieft contact op met de klant om de "
+"mogelijkheden voor snellere levering te bespreken."
+
+#: signa.php:796
+msgid "Page saved"
+msgstr "Pagina opgeslagen"
+
+#: signa.php:797
+msgid "Imported products has been approved to specific category"
+msgstr ""
+"Geïmporteerde producten zijn goedgekeurd en toegewezen aan de betreffende "
+"categorie."
+
+#: signa.php:798
+msgid "Add option"
+msgstr "Voeg optie toe"
+
+#: signa.php:799
+msgid "New account has been created. Now you can log in, by using data"
+msgstr ""
+"Uw account is aangemaakt. U kunt nu inloggen met de volgende inloggegevens:"
+
+#: signa.php:800
+msgid "password"
+msgstr "Wachtwoord"
+
+#: signa.php:801
+msgid "Please as soon as possible change your password"
+msgstr "Verander uw wachtwoord alstublieft zo spoedig mogelijk"
+
+#: signa.php:802
+msgid "projects"
+msgstr "Projecten"
+
+#: signa.php:803
+msgid "New organisation has been added"
+msgstr "Nieuwe organisatie is toegevoegd"
+
+#: signa.php:804
+msgid "Organisation can't be added"
+msgstr "Organisatie kan niet worden toegevoegd"
+
+#: signa.php:805
+msgid "Organisation has been edited"
+msgstr "Wijzigingen in organisatie zijn opgeslagen"
+
+#: signa.php:806
+msgid "Organisation can't be edited"
+msgstr "Wijzigingen in organisatie kunnen niet worden opgeslagen"
+
+#: signa.php:807
+msgid "Organisation has been deleted"
+msgstr "Organisatie is verwijderd"
+
+#: signa.php:808
+msgid "Organisation doesn't exist"
+msgstr "Organisatie bestaat niet"
+
+#: signa.php:809
+msgid "Organisation has been deactivated"
+msgstr "Organisatie is nu inactief"
+
+#: signa.php:810
+msgid "Organisation has been activated"
+msgstr "Organisatie is nu actief "
+
+#: signa.php:811
+msgid "File has been deleted."
+msgstr "Bestand is verwijderd"
+
+#: signa.php:812
+msgid "File doesn't exist"
+msgstr "Bestand bestaat niet"
+
+#: signa.php:813
+msgid "Sent"
+msgstr "Verstuurd"
+
+#: signa.php:814
+msgid ""
+"Are you sure you want to set this recipe to inactive? Labs will be notified "
+"about this and it will no longer be possible for dentists to order this "
+"recipe."
+msgstr ""
+"Weet u zeker dat u dit recept wilt deactiveren? De tandtechnische bedrijven "
+"ontvangen hier een melding van en tandartsen kunnen dit recept niet meer "
+"bestellen. "
+
+#: signa.php:815
+msgid "Signadens set the status of recipe "
+msgstr "Signadens heeft recept "
+
+#: signa.php:816
+msgid " to inactive. You can no longer offer this recipe to your clients. "
+msgstr " gedeactiveerd. U kunt dit recept niet meer aan uw klanten aanbieden. "
+
+#: signa.php:817
+msgid "Status recipe changed"
+msgstr "Recept-status gewijzigd"
+
+#: signa.php:818
+msgid "Active Recipes"
+msgstr "Actieve recepten"
+
+#: signa.php:819
+msgid "Inactive Recipes"
+msgstr "Recept-archief"
+
+#: signa.php:820
+msgid "Recipe archive"
+msgstr "Recept-archief"
+
+#: signa.php:821
+msgid "Confirm deactivation recipe"
+msgstr "Deactiveren bevestigen"
+
+#: signa.php:822 signa.php:850
+msgid "Department"
+msgstr "Afdeling"
+
+#: signa.php:823 signa.php:910
+msgid "Departments"
+msgstr "Afdelingen"
+
+#: signa.php:824 signa.php:896
+msgid "User departments"
+msgstr "Afdeling lab"
+
+#: signa.php:825 signa.php:884
+msgid "Edit user department"
+msgstr "Afdeling lab aanpassen"
+
+#: signa.php:826 signa.php:849
+msgid "Add new user department"
+msgstr "Afdeling lab aanpassen"
+
+#: signa.php:827
+msgid "External link product sheet Signadens"
+msgstr "Externe link productblad Signadens"
+
+#: signa.php:828
+msgid "Product sheet Signadens"
+msgstr "Productblad Signadens"
+
+#: signa.php:829
+msgid "Product description Signadens"
+msgstr "Productbeschrijving Signadens"
+
+#: signa.php:830
+msgid "Tax percentage"
+msgstr "BTW-percentage"
+
+#: signa.php:831
+msgid "Product group"
+msgstr "Productgroep"
+
+#: signa.php:832
+msgid "product group"
+msgstr "productgroep"
+
+#: signa.php:833
+msgid "Save and deactivate"
+msgstr "Deactiveer"
+
+#: signa.php:834
+msgid "Save and activate"
+msgstr "Activeer"
+
+#: signa.php:835
+msgid "There is not connected tariff code or price is not set"
+msgstr ""
+"Activeren is niet mogelijk. De tariefcode-koppeling of te berekenen vaste "
+"prijs ontbreekt."
+
+#: signa.php:836
+msgid "URL to product image"
+msgstr "URL naar productafbeelding"
+
+#: signa.php:837
+msgid "product_group"
+msgstr "productgroep"
+
+#: signa.php:838
+msgid "Single additional price"
+msgstr "Eenmalige aanvullende kosten (ongeacht aantal)"
+
+#: signa.php:839
+msgid "Additional price per item"
+msgstr "Aanvullende kosten per item"
+
+#: signa.php:840
+msgid "per page"
+msgstr "aantal producten per pagina"
+
+#: signa.php:841
+msgid "Product category can not be empty."
+msgstr "Kies een productcategorie"
+
+#: signa.php:842
+msgid "Custom price"
+msgstr "Additionele kosten"
+
+#: signa.php:843
+msgid "Print packing slip"
+msgstr "Print pakbon"
+
+#: signa.php:844 signa.php:1275 signa.php:1279
+msgid "Packing slip"
+msgstr "Pakbon"
+
+#: signa.php:851
+msgid "Add new framework agreement"
+msgstr "Nieuwe raamovereenkomst toevoegen"
+
+#: signa.php:852
+msgid "Framework agreement"
+msgstr "Raamovereenkomst"
+
+#: signa.php:853
+msgid "Agreement effective from"
+msgstr "Ingangsdatum"
+
+#: signa.php:854
+msgid "Due date agreement"
+msgstr "Vervaldatum"
+
+#: signa.php:855
+msgid "Owner of agreement"
+msgstr "Eigenaar raamovereenkomst"
+
+#: signa.php:856
+msgid "Reminder due date in month"
+msgstr "Verzenden herinnering vervaldatum (aantal maanden voor vervaldatum)"
+
+#: signa.php:857
+msgid "Name supplier"
+msgstr "Leverancier"
+
+#: signa.php:858
+msgid "Name contact person"
+msgstr "Contactpersoon"
+
+#: signa.php:859
+msgid "Address supplier"
+msgstr "Adres leverancier"
+
+#: signa.php:860
+msgid "Zip code supplier"
+msgstr "Postcode leverancier"
+
+#: signa.php:861
+msgid "City supplier"
+msgstr "Vestigingsplaats leverancier"
+
+#: signa.php:862
+msgid "Phone number supplier"
+msgstr "Telefoonnummer leverancier"
+
+#: signa.php:863
+msgid "Shipping costs"
+msgstr "Verzendkosten"
+
+#: signa.php:864
+msgid "Delivery period"
+msgstr "Levertijd"
+
+#: signa.php:865
+msgid "Suggested retail price"
+msgstr "Retail adviesprijs"
+
+#: signa.php:866
+msgid "Order quantity"
+msgstr "Afspraken m.b.t. orderhoeveelheid "
+
+#: signa.php:867
+msgid "Attachments"
+msgstr "Bijlage(n)"
+
+#: signa.php:868
+msgid "Categories the agreement is applicable to"
+msgstr "Overeengekomen kortingspercentage(s)"
+
+#: signa.php:869
+msgid "Discount for all products"
+msgstr "Kortingspercentage voor alle producten"
+
+#: signa.php:870
+msgid "Discount per product category"
+msgstr "Kortingspercentage per productcategorie"
+
+#: signa.php:871
+msgid "Discount per product group"
+msgstr "Kortingspercentage per productgroep"
+
+#: signa.php:872
+msgid "Marketing support applicability"
+msgstr "Afspraken over marketing support"
+
+#: signa.php:873
+msgid "SLA applicability"
+msgstr "Bestaan Service Level Agreement"
+
+#: signa.php:874
+msgid "Available training sessions"
+msgstr "Afspraken over beschikbare (product)trainingen"
+
+#: signa.php:875
+msgid "Additional notes"
+msgstr "Aanvullende notities"
+
+#: signa.php:879
+msgid "Send date"
+msgstr "Verzenddatum "
+
+#: signa.php:885
+msgid "Edit tree category: "
+msgstr "Categorieboom bewerken"
+
+#: signa.php:888
+msgid "modal-title"
+msgstr "Titel pop-up"
+
+#: signa.php:890
+msgid "Duplicate framework agreement"
+msgstr "Dupliceer raamovereenkomst"
+
+#: signa.php:892
+msgid "Delete file"
+msgstr "Verwijderen"
+
+#: signa.php:897
+msgid "Framework agreements"
+msgstr "Raamovereenkomsten"
+
+#: signa.php:898
+msgid "Number"
+msgstr "Nummer"
+
+#: signa.php:899
+msgid "Starting date"
+msgstr "Ingangsdatum"
+
+#: signa.php:904
+msgid "Duplicate"
+msgstr "Dupliceer"
+
+#: signa.php:915
+msgid "text"
+msgstr "Text "
+
+#: signa.php:919
+msgid "View framework agreement"
+msgstr "Toon raamovereenkomst"
+
+#: signa.php:921
+msgid "File deleted"
+msgstr "Bestand is verwijderd"
+
+#: signa.php:922 signa.php:924
+msgid "Framework agreement can't be added."
+msgstr "Raamovereenkomst kan niet worden toegevoegd."
+
+#: signa.php:923
+msgid "Framework agreement has been added."
+msgstr "Raamovereenkomst is toegevoegd."
+
+#: signa.php:925
+msgid "You can`t edit this Framework agreement."
+msgstr "Deze raamovereenkomst kan niet bewerkt worden."
+
+#: signa.php:926
+msgid "Framework agreement has been edited."
+msgstr "De raamovereenkomst is aangepast."
+
+#: signa.php:927
+msgid "Framework agreement can't be edited."
+msgstr "Deze raamovereenkomst kan niet worden aangepast."
+
+#: signa.php:928
+msgid "Framework agreement has been duplicated."
+msgstr "De raamovereenkomst is gedupliceerd."
+
+#: signa.php:929
+msgid "Framework agreement can't be duplicated."
+msgstr "Deze raamovereenkomst kan niet gedupliceerd worden."
+
+#: signa.php:930
+msgid "Framework agreement has been deactivated."
+msgstr "De raamovereenkomst is gedeactiveerd"
+
+#: signa.php:931
+msgid "Framework agreement doesn't exist."
+msgstr "Raamovereenkomst bestaat niet."
+
+#: signa.php:932
+msgid "Framework agreement has been activated."
+msgstr "De raamovereenkomst is geactiveerd."
+
+#: signa.php:933
+msgid "Framework agreement  doesn't exist."
+msgstr "Raamovereenkomst bestaat niet."
+
+#: signa.php:942
+msgid "Department has been added."
+msgstr "Afdeling is toegevoegd."
+
+#: signa.php:943
+msgid "Department can't be added."
+msgstr "Sorry, we doen iets niet goed, de afdeling kan niet worden toegevoegd."
+
+#: signa.php:944
+msgid "Department has been edited."
+msgstr "De afdeling is aangepast."
+
+#: signa.php:945
+msgid "Department can't be edited."
+msgstr "De afdeling kan niet worden bewerkt."
+
+#: signa.php:948
+msgid "Edit framework agreement"
+msgstr "Edit raamovereenkomst"
+
+#: signa.php:949
+msgid "active"
+msgstr "actief"
+
+#: signa.php:950
+msgid "inactive"
+msgstr "inactief"
+
+#: signa.php:951
+msgid "Organisation name"
+msgstr "Organisatie"
+
+#: signa.php:952
+msgid "Statuses selected"
+msgstr "Geselecteerde statussen"
+
+#: signa.php:953
+msgid "Statuses available"
+msgstr "Beschikbare statussen"
+
+#: signa.php:954
+msgid "Add new status"
+msgstr "Voeg nieuwe status toe "
+
+#: signa.php:955
+msgid "Type name for new status"
+msgstr "Voeg naam nieuwe status in"
+
+#: signa.php:956
+msgid "Edit new status"
+msgstr "Bewerk status"
+
+#: signa.php:957
+msgid "Delete status?"
+msgstr "Status verwijderen"
+
+#: signa.php:958
+msgid "Do you want delete status ?"
+msgstr "Weet u zeker dat u deze status wil verwijderen? "
+
+#: signa.php:959
+msgid "Statuses"
+msgstr "Statussen"
+
+#: signa.php:960
+msgid "Change status?"
+msgstr "Status aanpassen"
+
+#: signa.php:961
+msgid "Are you sure you want to change the status?"
+msgstr "Weet u zeker dat u de status wilt aanpassen"
+
+#: signa.php:962
+msgid "Date and time"
+msgstr "Datum en tijd"
+
+#: signa.php:963
+msgid "Changed by"
+msgstr "Gewijzigd door"
+
+#: signa.php:964
+msgid "Product changed."
+msgstr "Product aangepast"
+
+#: signa.php:965
+msgid "Special order"
+msgstr "Niet-retourneerbaar product"
+
+#: signa.php:966
+msgid ""
+"This product will be specially ordered for you. You can not return this. Are "
+"you sure you want to order this product?"
+msgstr ""
+"Dit product wordt speciaal voor u besteld en kan daarom niet geretourneerd "
+"worden. Weet u zeker dat u dit product wilt bestellen?"
+
+#: signa.php:967 signa.php:985
+msgid "Alert price change"
+msgstr "Prijswijziging"
+
+#: signa.php:968 signa.php:986
+msgid "Approve and send order"
+msgstr "Bestelling goedkeuren en verzenden"
+
+#: signa.php:969 signa.php:987
+msgid "Status change order"
+msgstr "Statuswijziging order"
+
+#: signa.php:970 signa.php:988
+msgid "Show product"
+msgstr "Toon product "
+
+#: signa.php:971
+msgid "Type of supplier"
+msgstr "Type leverancier"
+
+#: signa.php:972
+msgid "Lowest price"
+msgstr "Laagste prijs / beste nettoprijs"
+
+#: signa.php:973
+msgid "Discount rate in framework agreement"
+msgstr "Kortingspercentage(s) raamovereenkomst"
+
+#: signa.php:974
+msgid "Free shipping"
+msgstr "Gratis verzending"
+
+#: signa.php:975
+msgid "Shipping costs will be charged when order is < €"
+msgstr "Verzendkosten worden berekend wanneer orderkosten lager zijn dan "
+
+#: signa.php:976
+msgid "Additional shipping costs will be charged"
+msgstr "Aanvullende verzendkosten worden berekend"
+
+#: signa.php:977
+msgid "Delivery time in workdays"
+msgstr "Levertijd voorraadartikelen in werkdagen"
+
+#: signa.php:978
+msgid "When ordered before"
+msgstr "Wanneer de bestelling geplaatst is voor"
+
+#: signa.php:979
+msgid "This product was already added to the orderlist by"
+msgstr "Dit product is al in de winkelwagen geplaatst door"
+
+#: signa.php:980
+msgid "This product is for general stock."
+msgstr "Dit is een bestelling voor de algemene voorraad."
+
+#: signa.php:981
+msgid "Please provide project number"
+msgstr "Voeg hier het werkstuknummer in"
+
+#: signa.php:982
+msgid "Do you still want to add this to the order list for a specific project?"
+msgstr "Wilt u dit product bestellen voor een specifiek werkstuknummer?"
+
+#: signa.php:983
+#, php-format
+msgid "Delivery time is %s business day when ordered before %s"
+msgstr ""
+"Levertijd van voorraadartikelen is %s werkdagen als deze besteld worden voor "
+"%s"
+
+#: signa.php:984
+msgid "Product has been added to the orderlist."
+msgstr "Product is toegevoegd aan de winkelwagen."
+
+#: signa.php:989
+msgid "Log product import / update"
+msgstr "Log productimport / -update"
+
+#: signa.php:990
+msgid "Notification about import / update"
+msgstr "Notificatie productimport / -update"
+
+#: signa.php:991
+msgid "Users log"
+msgstr "Gebruikersbeheer"
+
+#: signa.php:992
+msgid "Receiving date"
+msgstr "Ontvangstdatum"
+
+#: signa.php:993
+msgid "Order number"
+msgstr "Ordernummer"
+
+#: signa.php:994
+msgid "Notification content"
+msgstr "Notificatie "
+
+#: signa.php:995
+msgid "are already in the shortlist"
+msgstr "staat / staan al op de shortlist"
+
+#: signa.php:996
+msgid "Product already in the shortlist"
+msgstr "Dit product staat al op de shortlist"
+
+#: signa.php:997
+msgid "Products added to the shortlist"
+msgstr "Producten zijn toegevoegd aan de shortlist"
+
+#: signa.php:998
+msgid "Please select a product"
+msgstr "Selecteer een product"
+
+#: signa.php:999
+msgid "Products added to shortlist"
+msgstr "Producten zijn toegevoegd aan de shortlist"
+
+#: signa.php:1000
+msgid "Select all"
+msgstr "Selecteer alles"
+
+#: signa.php:1001
+msgid "Add to shortlist by supplier"
+msgstr "Alle producten van leverancier:"
+
+#: signa.php:1003
+msgid "Add selected products to shortlist"
+msgstr "Voeg selectie toe aan shortlist"
+
+#: signa.php:1004
+msgid "Product added to shortlist"
+msgstr "Product toegevoegd aan de shortlist"
+
+#: signa.php:1005
+msgid "Product already in shortlist"
+msgstr "Dit product staat al op de shortlist"
+
+#: signa.php:1006
+msgid "There is no more products to categorize."
+msgstr "Alle tot nu toe goedgekeurde producten zijn gecategoriseerd"
+
+#: signa.php:1007
+msgid "Import - categorize"
+msgstr "Import - producten categoriseren"
+
+#: signa.php:1008
+msgid "Imported products has been declined with general message"
+msgstr "Algemeen bericht bij de afwijzing van producten"
+
+#: signa.php:1009
+msgid "with declined message for products"
+msgstr "Specifiek bericht bij een afgewezen product"
+
+#: signa.php:1010
+msgid "Add new ledger code"
+msgstr "Voeg nieuw grootboeknummer toe"
+
+#: signa.php:1011
+msgid "Request product removal"
+msgstr "Verzoek productverwijdering"
+
+#: signa.php:1012
+msgid "Removal request already sent"
+msgstr "Voor dit product is al een verzoek tot verwijdering verstuurd"
+
+#: signa.php:1013
+msgid ""
+"From what moment do you want this product to be removed and why are you "
+"requesting this?"
+msgstr ""
+"Vanaf welke datum wilt u het product laten verwijderen? En wat is uw reden "
+"voor dit verzoek? "
+
+#: signa.php:1014
+msgid "has requested the removal of product"
+msgstr "heeft een verzoek tot verwijdering aangevraagd voor het product"
+
+#: signa.php:1015
+msgid "Requested date: "
+msgstr "Gewenste verwijder-datum"
+
+#: signa.php:1016
+msgid "Reason: "
+msgstr "Reden:"
+
+#: signa.php:1017
+msgid "You requested the removal of the product"
+msgstr "U heeft een verzoek tot verwijdering ingediend voor het product"
+
+#: signa.php:1018
+msgid "Your request is sent to Signadens admin."
+msgstr "Uw verzoek is verstuurd naar Signadens"
+
+#: signa.php:1019
+msgid "Request for removal already sent"
+msgstr "Voor dit product is al een verzoek tot verwijdering verstuurd"
+
+#: signa.php:1020
+msgid "Please fill out the required fields."
+msgstr "Vul alstublieft de verplichte velden in"
+
+#: signa.php:1021
+msgid "Message"
+msgstr "Bericht"
+
+#: signa.php:1022
+msgid "Confirm product removal?"
+msgstr "Instemmen met product-verwijdering? "
+
+#: signa.php:1023
+msgid "Product will be removed on the requested date."
+msgstr "Het product zal op de aangevraagde datum verwijderd worden."
+
+#: signa.php:1024
+msgid "New product"
+msgstr "Nieuwe producten"
+
+#: signa.php:1025
+msgid "New orders"
+msgstr "Nieuwe bestellingen"
+
+#: signa.php:1026
+msgid "Order Number"
+msgstr "Ordernummer"
+
+#: signa.php:1027
+msgid "Lab Name"
+msgstr "Tandtechnisch bedrijf"
+
+#: signa.php:1028
+msgid "Old Status"
+msgstr "Oude status"
+
+#: signa.php:1029
+msgid "New Status"
+msgstr "Nieuwe status"
+
+#: signa.php:1030 signa.php:1042
+msgid "New products on shortlist"
+msgstr "Nieuwe producten shortlist"
+
+#: signa.php:1031
+msgid "Client number updated successfully"
+msgstr "Het debiteurnummer is opgeslagen"
+
+#: signa.php:1032
+msgid "Only numbers allowed"
+msgstr "In dit veld zijn alleen cijfers toegestaan"
+
+#: signa.php:1033
+msgid "Pending invitations"
+msgstr "Uitstaande uitnodigingen"
+
+#: signa.php:1034
+msgid "Back to clients"
+msgstr "Terug naar klantoverzicht"
+
+#: signa.php:1035
+msgid "Edit client"
+msgstr "Bewerk"
+
+#: signa.php:1036
+msgid "Client number"
+msgstr "Debiteurnummer "
+
+#: signa.php:1037 signa.php:1043
+msgid "Mark as viewed"
+msgstr "Markeer als 'gezien'"
+
+#: signa.php:1038
+msgid "Basic elements"
+msgstr "Basis"
+
+#: signa.php:1039
+msgid "Variable elements"
+msgstr "Variabel"
+
+#: signa.php:1040
+msgid "Optional elements"
+msgstr "Optioneel"
+
+#: signa.php:1041
+msgid "Additional information"
+msgstr "Aanvullend"
+
+#: signa.php:1044
+msgid "Purchase"
+msgstr "Inkoop"
+
+#: signa.php:1045
+msgid "Purchases"
+msgstr "Inkoop"
+
+#: signa.php:1046
+msgid "Shortlist is empty"
+msgstr "Uw shortlist is leeg"
+
+#: signa.php:1047
+msgid "Tariff price"
+msgstr "Prijs tariefcode"
+
+#: signa.php:1048
+msgid "Account already exists"
+msgstr "Dit gebruikersaccount bestaat al"
+
+#: signa.php:1049
+msgid "invites you to join Signadens"
+msgstr "nodigt u uit om gebruik te maken van het platform Signadens"
+
+#: signa.php:1050
+msgid "Recipe copied successfully"
+msgstr "Het recept is gedupliceerd"
+
+#: signa.php:1051
+msgid "Error while copying the recipe"
+msgstr ""
+"Tijdens het dupliceren van het recept heeft zich een probleem voorgedaan"
+
+#: signa.php:1052
+msgid "Please enter the name of the new recipe"
+msgstr "Voer de naam van het nieuwe recept in"
+
+#: signa.php:1053
+msgid "Create recipe copy"
+msgstr "Recept dupliceren"
+
+#: signa.php:1054
+msgid "Client data updated successfully"
+msgstr "De wijzigingen in klantgegevens zijn opgeslagen"
+
+#: signa.php:1055
+msgid "Client preferences"
+msgstr "Klantvoorkeuren"
+
+#: signa.php:1056 signa.php:1077
+msgid "New password has been sent"
+msgstr "Gelukt, we hebben een nieuw wachtwoord opgestuurd."
+
+#: signa.php:1057 signa.php:1078
+msgid "Error while changing password, please contact Signadens admin"
+msgstr ""
+"Error: het wijzigen van het wachtwoord is mislukt. Neem contact op met "
+"Signadens: kantoor@ "
+
+#: signa.php:1058
+msgid "Schema final selection:"
+msgstr "Definitieve selectie"
+
+#: signa.php:1059
+msgid "Schema updated"
+msgstr "Element-selectie bijgewerkt"
+
+#: signa.php:1060
+msgid "Error updating schema"
+msgstr "Error: het element-schema kon niet worden bijgewerkt"
+
+#: signa.php:1061
+msgid "Selection chosen by dentist: "
+msgstr "Selectie door tandarts:"
+
+#: signa.php:1062
+msgid "Final selection: "
+msgstr "Definitieve selectie:"
+
+#: signa.php:1063
+msgid "Add schematic teeth view"
+msgstr "Voeg schematische weergave gebit toe"
+
+#: signa.php:1064
+msgid "To be determined by lab"
+msgstr "Laat het lab beslissen"
+
+#: signa.php:1065
+msgid "Move to delivery and generate delivery note"
+msgstr "Verplaats naar status 'verzonden' "
+
+#: signa.php:1066
+msgid "View (concept) delivery note"
+msgstr "Bekijk (concept van) de dagnota"
+
+#: signa.php:1067
+msgid "View delivery note"
+msgstr "Bekijk dagnota"
+
+#: signa.php:1068
+msgid "Delivery note"
+msgstr "Dagnota"
+
+#: signa.php:1069
+msgid "Delivery note number"
+msgstr "Dagnota-nummer"
+
+#: signa.php:1070
+msgid "Recipe​ ​name"
+msgstr "Recept"
+
+#: signa.php:1072
+msgid "Requested delivery date(s)"
+msgstr "Gewenste leverdatum/-data "
+
+#: signa.php:1073
+msgid "Description delivery"
+msgstr "Omschrijving levering"
+
+#: signa.php:1074
+msgid "Requested delivery date:"
+msgstr "Gewenste leverdatum:"
+
+#: signa.php:1075 signa.php:1169
+msgid "Add delivery date"
+msgstr "Voeg leverdatum toe "
+
+#: signa.php:1076
+msgid "Description of delivery:"
+msgstr "Beschrijving van de levering:"
+
+#: signa.php:1079
+msgid "Main product category"
+msgstr "Hoofdcategorie"
+
+#: signa.php:1080
+msgid "Sub category"
+msgstr "Subcategorie"
+
+#: signa.php:1081
+msgid "Subsub category"
+msgstr "Subsubcategorie"
+
+#: signa.php:1082
+msgid "Add new category"
+msgstr "Nieuwe productcategorie toevoegen"
+
+#: signa.php:1083
+msgid "New category"
+msgstr "Nieuwe productcategorie"
+
+#: signa.php:1084
+msgid "Main category can not be empty."
+msgstr "Kies een hoofdcategorie"
+
+#: signa.php:1085
+msgid "Sub category can not be empty."
+msgstr "Kies een sub-categorie"
+
+#: signa.php:1086
+msgid "Subsub category can not be empty."
+msgstr "Kies een subsub-categorie"
+
+#: signa.php:1087
+msgid "Wrong main category"
+msgstr "De hoofdcategorie bestaat niet"
+
+#: signa.php:1088
+msgid "Wrong sub category"
+msgstr "De subcategorie bestaat niet"
+
+#: signa.php:1089
+msgid "Wrong subsub category"
+msgstr "De subsub-categorie bestaat niet"
+
+#: signa.php:1090
+msgid ""
+"Make additional choices  in the filters or choose the recipe you want to "
+"order."
+msgstr "Maak aanvullende keuzes of kies direct het gewenste recept."
+
+#: signa.php:1091 signa.php:1097
+msgid "Available recipes within this branch, with current filtering"
+msgstr ""
+"Available recipes within this branch, with current filtering\n"
+"/\n"
+"Beschikbare recepten binnen deze categorie en met de actuele filters"
+
+#: signa.php:1092
+msgid "Delete recipe from order"
+msgstr "Verwijder recept van order"
+
+#: signa.php:1093
+msgid "Are you sure you want to delete this recipe?"
+msgstr "Weet u zeker dat u dit recept wilt verwijderen uit de order?"
+
+#: signa.php:1094
+msgid "Recipe deleted"
+msgstr "Recept is verwijderd"
+
+#: signa.php:1095
+msgid "Delete recipe"
+msgstr "Recept verwijderen"
+
+#: signa.php:1096
+msgid ""
+"Make additional choices in the filters or choose the recipe you want to "
+"order."
+msgstr "Maak aanvullende keuzes of kies direct het gewenste recept. "
+
+#: signa.php:1098
+msgid "Recipe modified"
+msgstr "Recept bijgewerkt"
+
+#: signa.php:1099
+msgid "New invoices have been added"
+msgstr "Gelukt, de nieuwe factuur is aangemaakt. "
+
+#: signa.php:1100
+msgid "Error while generating invoices"
+msgstr "Tijdens het genereren van de factuur is iets misgegaan."
+
+#: signa.php:1101
+msgid "Invoice bulk has been deleted."
+msgstr "Gelukt, de factuur-batch is verwijderd."
+
+#: signa.php:1102
+msgid "Invoice bulk has been processed"
+msgstr "Gelukt, de factuur-batch is verwerkt."
+
+#: signa.php:1103
+msgid "Error while processing invoice bulk"
+msgstr "Tijdens het verwerken van de factuur-batch is iets misgegaan."
+
+#: signa.php:1104
+msgid "Zip file has been created"
+msgstr "Zip-bestand is aangemaakt"
+
+#: signa.php:1105
+msgid "Error while creating zip file"
+msgstr ""
+"Tijdens het aanmaken van het zip-bestand heeft zich een probleem voorgedaan"
+
+#: signa.php:1106
+msgid "Order updated"
+msgstr "Order bijgewerkt"
+
+#: signa.php:1107
+msgid "Error updating order"
+msgstr "Error: Order is niet bijgewerkt"
+
+#: signa.php:1108
+msgid "You can not complete an order with a basic recipe on it"
+msgstr ""
+"U kunt geen dagnota genereren als er nog een basis-recept in de order staat."
+
+#: signa.php:1109
+msgid "Download invoice"
+msgstr "Factuur downloaden"
+
+#: signa.php:1110
+msgid "Invoice number"
+msgstr "Factuurnummer"
+
+#: signa.php:1111
+msgid "Filename"
+msgstr "Bestandsnaam "
+
+#: signa.php:1112
+msgid "Invoice initial sequence"
+msgstr "Startnummer factuurnummers"
+
+#: signa.php:1113
+msgid "Invoice period"
+msgstr "Factuur-periode"
+
+#: signa.php:1114 signa.php:1158
+msgid "Change recipe"
+msgstr "Wijzig recept"
+
+#: signa.php:1115
+msgid "Generate invoices"
+msgstr "Nieuwe facturen genereren"
+
+#: signa.php:1116
+msgid "Available recipes"
+msgstr "Beschikbare recepten"
+
+#: signa.php:1117
+msgid "This is a basic recipe"
+msgstr "Dit is een basis-recept"
+
+#: signa.php:1118
+msgid "Lab(s) I am connected to"
+msgstr "Laboratorium waaraan ik verbonden ben"
+
+#: signa.php:1119
+msgid "You can search for the KvK number of the dentist at"
+msgstr "U kunt het KvK-nummer opzoeken op"
+
+#: signa.php:1120
+msgid "General email address"
+msgstr "Algemeen e-mailadres"
+
+#: signa.php:1121
+msgid "KvK number"
+msgstr "KvK-nummer"
+
+#: signa.php:1122
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+#: signa.php:1123
+msgid "Contact person(s)"
+msgstr "Contactperso(o)n(en)"
+
+#: signa.php:1124
+msgid "Salutation"
+msgstr "Aanhef"
+
+#: signa.php:1125
+msgid "Add contact person"
+msgstr "Contactpersoon toevoegen"
+
+#: signa.php:1126
+msgid "Edit contact person"
+msgstr "Contactpersoon bewerken"
+
+#: signa.php:1127
+msgid "Dentist added successfully"
+msgstr "Gelukt, de tandarts is toegevoegd"
+
+#: signa.php:1128
+msgid "Error while creating dentist"
+msgstr ""
+"Tijdens het aanmaken van de tandarts heeft zich een probleem voorgedaan"
+
+#: signa.php:1129
+msgid "Do you want to send"
+msgstr "Weet u zeker dat u "
+
+#: signa.php:1130
+msgid "an invitation to join the Signadens platform?"
+msgstr "uit wilt nodigen om gebruik te maken van het platform Signadens?"
+
+#: signa.php:1131
+msgid "Yes, send invitation"
+msgstr "Ja, verstuur uitnodiging"
+
+#: signa.php:1132
+msgid "Kvk number already exists"
+msgstr "Dit KvK-nummer heeft u al eerder gebruikt."
+
+#: signa.php:1133
+msgid "Invite sent"
+msgstr "De uitnodiging is verstuurd"
+
+#: signa.php:1134
+msgid "Error when sending invite"
+msgstr "Tijdens het versturen van de uitnodiging is iets misgegaan."
+
+#: signa.php:1135 signa.php:1151
+msgid "Supplier logo"
+msgstr "Logo leverancier"
+
+#: signa.php:1136 signa.php:1152
+msgid "There is no products to display with active criteria"
+msgstr "Er zijn geen producten die voldoen aan uw zoekopdracht."
+
+#: signa.php:1137
+msgid "I agreed to terms of use of Signadens"
+msgstr "Ik heb de gebruiksvoorwaarden van Signadens geaccepteerd"
+
+#: signa.php:1138
+msgid "Contract has been deleted"
+msgstr "De overeenkomst is verwijderd."
+
+#: signa.php:1139
+msgid "Error while deleting contract"
+msgstr ""
+"Tijdens het verwijderen van het document heeft zich een probleem voorgedaan"
+
+#: signa.php:1140
+msgid "Please select a country"
+msgstr "Selecteer een land"
+
+#: signa.php:1141
+msgid "Processing contract"
+msgstr "Verwerkersovereenkomst"
+
+#: signa.php:1142
+msgid "You can download the"
+msgstr "Download hier de "
+
+#: signa.php:1143 signa.php:1147
+msgid "concept of the contract"
+msgstr "modelovereenkomst"
+
+#: signa.php:1144
+msgid "and upload the signed version."
+msgstr "en upload de getekende versie"
+
+#: signa.php:1145
+msgid "This will also be visible to the dentist"
+msgstr "Deze overeenkomst zal ook zichtbaar zijn voor de tandarts"
+
+#: signa.php:1146
+msgid "No processing contract yet? download the"
+msgstr "Is er nog geen getekende verwerkersovereenkomst? Download de"
+
+#: signa.php:1148
+msgid "and send it to your connected lab"
+msgstr "en stuur deze getekend naar het betreffende lab."
+
+#: signa.php:1149
+msgid "Terms of use"
+msgstr "Gebruikersvoorwaarden / Privacy policy"
+
+#: signa.php:1150
+msgid "Instructions"
+msgstr "Platform-instructie"
+
+#: signa.php:1153
+msgid "LOT number"
+msgstr "LOT-nummer"
+
+#: signa.php:1154 signa.php:1180
+msgid "Batch number"
+msgstr "Batch-nummer"
+
+#: signa.php:1155
+msgid "Alloy number"
+msgstr "Legering"
+
+#: signa.php:1156
+msgid "Alloy"
+msgstr "Legering"
+
+#: signa.php:1157
+msgid "Design nr"
+msgstr "Design-nummer"
+
+#: signa.php:1159
+msgid "Input dentist"
+msgstr "Input tandarts"
+
+#: signa.php:1160
+msgid "Add dentist"
+msgstr "Tandarts toevoegen"
+
+#: signa.php:1161
+msgid "Send invite"
+msgstr "Uitnodiging versturen"
+
+#: signa.php:1162
+msgid "The invitation will be sent to"
+msgstr "De uitnodiging wordt verstuurd naar"
+
+#: signa.php:1163
+msgid "Select country"
+msgstr "Selecteer land"
+
+#: signa.php:1164
+msgid "Invoice information"
+msgstr "Factuur-gegevens"
+
+#: signa.php:1165
+msgid "Function"
+msgstr "Functie"
+
+#: signa.php:1166
+msgid "Production time"
+msgstr "Minimale productietijd"
+
+#: signa.php:1167
+msgid "Avaliable steps"
+msgstr "Beschikbare fases"
+
+#: signa.php:1168
+msgid "Required amount of work days"
+msgstr "Benodigd aantal werkdagen"
+
+#: signa.php:1170
+msgid "Phase"
+msgstr "Fase"
+
+#: signa.php:1171
+msgid "Other"
+msgstr "Anders, namelijk:"
+
+#: signa.php:1172
+msgid "Prefered part of the day (no guarantee)"
+msgstr "Voorkeur voor dagdeel (geeft geen garantie)"
+
+#: signa.php:1173
+msgid "morning"
+msgstr "Ochtend"
+
+#: signa.php:1174
+msgid "afternoon"
+msgstr "Middag"
+
+#: signa.php:1175
+msgid "Prefered part of the day"
+msgstr "Voorkeurs-dagdeel"
+
+#: signa.php:1176
+msgid "Requested delivery date"
+msgstr "Gewenste leverdatum "
+
+#: signa.php:1177
+msgid "Edit delivery date"
+msgstr "Wijzig leverdatum"
+
+#: signa.php:1178
+msgid "Design number"
+msgstr "Design-nummer"
+
+#: signa.php:1179
+msgid "Lot number"
+msgstr "LOT-nummer"
+
+#: signa.php:1181
+msgid "ISO2Handle URL"
+msgstr "ISO2Handle URL"
+
+#: signa.php:1182
+msgid "ISO2H username"
+msgstr "ISO2Handle gebruikersnaam"
+
+#: signa.php:1183
+msgid "ISO2H password"
+msgstr "ISO2Handle wachtwoord"
+
+#: signa.php:1184
+msgid "AVG"
+msgstr "Kwaliteitsmanagement"
+
+#: signa.php:1185
+msgid "Quality control"
+msgstr "Kwaliteitsmanagement"
+
+#: signa.php:1186
+msgid "Your products have been approved"
+msgstr "De door u geimporteerde producten zijn geaccepteerd"
+
+#: signa.php:1187
+msgid "main_product_category"
+msgstr "Hoofdcategorie"
+
+#: signa.php:1188
+msgid "sub_product_category"
+msgstr "Sub-categorie"
+
+#: signa.php:1189
+msgid "sub_sub_product_category"
+msgstr "Subsub-categorie"
+
+#: signa.php:1190 signa.php:1215 signa.php:1224
+msgid "description"
+msgstr "Omschrijving"
+
+#: signa.php:1191 signa.php:1217 signa.php:1226
+msgid "price"
+msgstr "Prijs incl. btw"
+
+#: signa.php:1194 signa.php:1219 signa.php:1228
+msgid "amount_include"
+msgstr "Aantal in verpakking"
+
+#: signa.php:1195 signa.php:1218 signa.php:1227
+msgid "amount_min"
+msgstr "Minimaal aantal"
+
+#: signa.php:1196
+msgid "images"
+msgstr "Afbeelding"
+
+#: signa.php:1197
+msgid "currency"
+msgstr "Valuta"
+
+#: signa.php:1198
+msgid "price_currency"
+msgstr "Valuta"
+
+#: signa.php:1199
+msgid "image_url"
+msgstr "Afbeelding url"
+
+#: signa.php:1200
+msgid "download file template"
+msgstr "download import template"
+
+#: signa.php:1201
+msgid "Download an empty template here:"
+msgstr "Download hier een leeg import template:"
+
+#: signa.php:1202
+msgid "Download an example template including product categories here:"
+msgstr "Download een voorbeeldbestand met productcategorieën:"
+
+#: signa.php:1203
+msgid "Please note: use a clean and clear import file"
+msgstr ""
+"Let op: gebruik een schoon bestand waarbij geen formules in de cellen staan. "
+"Mocht uw productcatalogus meerdere categorieën bevatten (met meer dan 500 "
+"artikelen per categorie) dan adviseren we de upload per artikelgroep uit te "
+"voeren."
+
+#: signa.php:1204
+msgid "Special"
+msgstr "Special"
+
+#: signa.php:1205 signa.php:1212
+msgid "Products list"
+msgstr "Productoverzicht"
+
+#: signa.php:1206 signa.php:1213
+msgid "Lab view"
+msgstr "Shop weergave"
+
+#: signa.php:1207
+msgid " - view more - "
+msgstr "Bekijk meer"
+
+#: signa.php:1208
+msgid " - view less - "
+msgstr "Bekijk minder"
+
+#: signa.php:1209
+msgid "download file template with data"
+msgstr "download voorbeeld bestand"
+
+#: signa.php:1210
+msgid "(download file template with data - additional info)"
+msgstr "(let op, dit bestand bevat meerdere tabbladen)"
+
+#: signa.php:1211
+msgid "Clear filters"
+msgstr "Wis filters"
+
+#: signa.php:1214 signa.php:1223
+msgid "name"
+msgstr "Naam"
+
+#: signa.php:1221 signa.php:1230
+msgid "special_order"
+msgstr "Special"
+
+#: signa.php:1222 signa.php:1231
+msgid "producent"
+msgstr "Fabrikant"
+
+#: signa.php:1232
+msgid "Received all"
+msgstr "Alles ontvangen"
+
+#: signa.php:1233
+msgid "You received a new order. View this order in the order overview"
+msgstr "Open deze order in het bestel-overzicht"
+
+#: signa.php:1234
+msgid "Patient number"
+msgstr "Patiënt-nummer"
+
+#: signa.php:1235
+msgid "Day"
+msgstr "Dag"
+
+#: signa.php:1236
+msgid "Month"
+msgstr "Maand"
+
+#: signa.php:1237
+msgid "Year"
+msgstr "Jaar"
+
+#: signa.php:1238
+msgid "Add order"
+msgstr "Nieuwe order"
+
+#: signa.php:1239
+msgid "Concept"
+msgstr "Concept"
+
+#: signa.php:1240
+msgid "Resend invite"
+msgstr "Verstuur uitnodiging opnieuw"
+
+#: signa.php:1241
+msgid "Price alerts"
+msgstr "Prijs-productwijzigingen"
+
+#: signa.php:1242
+msgid "Enter the client preference"
+msgstr "Voer de klantvoorkeur in"
+
+#: signa.php:1243
+msgid "Choose a recipe"
+msgstr "Kies een recept"
+
+#: signa.php:1244
+msgid ""
+"Please note it will take a few minutes before the changes to your shortlist "
+"will be visible."
+msgstr ""
+"Let op: het duurt een paar minuten voordat wijzigingen aan uw shortlist "
+"zichtbaar zijn."
+
+#: signa.php:1245
+msgid ""
+"Product added to shortlist.<br />Please note it will take a few minutes "
+"before the changes to your shortlist will be visible."
+msgstr ""
+"Product toegevoegd aan de shortlist.<br />Let op: het duurt een paar minuten "
+"voordat wijzigingen aan uw shortlist zichtbaar zijn."
+
+#: signa.php:1246
+msgid ""
+"Product has been deleted from shortlist.<br />Please note it will take a few "
+"minutes before the changes to your shortlist will be visible."
+msgstr ""
+"Gelukt, het product is verwijderd van de shortlist.<br />Let op: het duurt "
+"een paar minuten voordat wijzigingen aan uw shortlist zichtbaar zijn."
+
+#: signa.php:1247
+msgid "Dentist profile"
+msgstr "Tandarts"
+
+#: signa.php:1248
+msgid "Select dentist"
+msgstr "Selecteer tandarts"
+
+#: signa.php:1249
+msgid "New account in Signadens"
+msgstr "Nieuw account Signadens"
+
+#: signa.php:1250
+msgid "All orders"
+msgstr "Alle orders"
+
+#: signa.php:1251
+msgid "You don't have access."
+msgstr ""
+"Voor deze pagina heeft u geen toegangsrechten.<br />Vragen? Neem dan contact "
+"op via kantoor@ ."
+
+#: signa.php:1252
+msgid "You don\\'t have access."
+msgstr ""
+"Voor deze pagina heeft u geen toegangsrechten.<br />Vragen? Neem dan contact "
+"op via kantoor@ ."
+
+#: signa.php:1253
+msgid ""
+"There is another product with this same product code in your import file. "
+"Are you sure you want to proceed? Please change your import file if this "
+"double product code is not correct."
+msgstr ""
+"Deze productcode wordt meer dan één keer gebruikt in het import-bestand. "
+"Weet u zeker dat u meerdere producten wilt uploaden met dezelfde "
+"productcode? Wijzig alstublieft uw importbestand als dit niet correct is."
+
+#: signa.php:1254
+msgid ""
+"Important note: all info in mapped columns of the import file will replace "
+"the information that is currently in the platform. This also includes "
+"images. Do not map the product image column if you will manually add / "
+"change images later."
+msgstr ""
+"Let op: wanneer u kolommen matcht tussen uw import-bestand en het systeem "
+"betekent dit dat de bestaande informatie over producten in het systeem "
+"vervangen worden voor de nieuwe informatie in het import-bestand. Dit geldt "
+"ook voor afbeeldingen. Koppel daarom de kolom 'url naar productafbeelding' "
+"niet als u afbeeldingen handmatig wilt uploaden in het platform."
+
+#: signa.php:1255
+msgid "Recipe number"
+msgstr "Receptnummer"
+
+#: signa.php:1256
+msgid "Part of day"
+msgstr "Dagdeel"
+
+#: signa.php:1257
+msgid "Name of phase"
+msgstr "Fase"
+
+#: signa.php:1258
+msgid "Patient name"
+msgstr "Patiënt"
+
+#: signa.php:1259
+msgid "Dentist name"
+msgstr "Tandarts"
+
+#: signa.php:1260
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: signa.php:1261
+msgid "Send updated order to lab"
+msgstr "Verstuur bijgewerkte gegevens naar het lab"
+
+#: signa.php:1262
+msgid "Get PDF"
+msgstr "Open PDF"
+
+#: signa.php:1263
+msgid "Get PDF packing slip"
+msgstr "Open PDF pakbon"
+
+#: signa.php:1264
+msgid "Get PDF label"
+msgstr "Open PDF label"
+
+#: signa.php:1265
+msgid "Create PDF label"
+msgstr "Open PDF label"
+
+#: signa.php:1266
+msgid "Dentist organisation name"
+msgstr "Tandartspraktijk"
+
+#: signa.php:1267
+msgid "Patient initials"
+msgstr "Initialen patient"
+
+#: signa.php:1268
+msgid "Patient insertion"
+msgstr "Tussenvoegsel"
+
+#: signa.php:1269
+msgid "Patient last name"
+msgstr "Achternaam patiënt"
+
+#: signa.php:1270
+msgid "sales_orders_in_progress"
+msgstr "Lopende orders"
+
+#: signa.php:1271
+msgid "dentist_orders_in_progress"
+msgstr "Lopende orders"
+
+#: signa.php:1272
+msgid "Dentist orders in progress"
+msgstr "Lopende orders"
+
+#: signa.php:1273
+msgid "Dentist_orders"
+msgstr "Orders"
+
+#: signa.php:1274 signa.php:1278
+msgid "Label"
+msgstr "Label"
+
+#: signa.php:1276
+msgid "You cant save custom options for current order status"
+msgstr ""
+"Wijzigingen kunnen niet worden opgeslagen omdat deze order een bestel-status "
+"heeft waarin geen wijzigingen (meer) mogen worden aangebracht."
+
+#: signa.php:1277
+#, php-format
+msgid ""
+"The amount of products in queue for approval is: %s. Once the import is "
+"approved the changes are visible for the Labs. You can follow the status of "
+"the import on the <a href=\\'%s\\'>import log</a>."
+msgstr ""
+"Het aantal producten dat geïmporteerd is en dat klaarstaat om goedgekeurd te "
+"worden is: %s. Nadat de import is goedgekeurd zijn de wijzigingen ook "
+"zichtbaar voor de Tandtechnische bedrijven. Kijk voor de actuele status van "
+"deze import op het <a href=\\'%s\\'>Import-logboek</a>."
+
+#: signa.php:1278
+msgid "Kvk value must be a number"
+msgstr "Het KvK nummer mag alleen cijfers bevatten"
+
+#: signa.php:1279
+msgid "Client already exists"
+msgstr "Deze organisatie is al bekend binnen Signadens"
+
+#: signa.php:1280
+msgid "Recipes saved"
+msgstr "Recepten opgelagen"
+
+#: signa.php:1281
+msgid "Location"
+msgstr "Locatie"
+
+#: signa.php:1282
+msgid ""
+"Your dentist organisation is connected to multiple labs. At which lab do you "
+"want to order?"
+msgstr ""
+"Bij welk van onderstaande tandtechnische laboratoria wilt u een bestelling "
+"plaatsen? "
+
+#: signa.php:1283
+msgid "Search orders by location"
+msgstr "Orders per locatie"
+
+#: signa.php:1284
+msgid "Show orders"
+msgstr "Toon orders"
+
+#: signa.php:1285
+msgid "Main location"
+msgstr "Hoofdlocatie"
+
+#: signa.php:1286
+msgid "Location(s)"
+msgstr "Locatie(s)"
+
+#: signa.php:1287
+msgid "Organisation data"
+msgstr "Organisatiegegevens"
+
+#: signa.php:1288
+msgid "Locations"
+msgstr "Locaties"
+
+#: signa.php:1289
+msgid "Location name"
+msgstr "Locatienaam"
+
+#: signa.php:1290
+msgid "Add new location"
+msgstr "Locatie toevoegen"
+
+#: signa.php:1291
+msgid "Legal data"
+msgstr "Juridische gegevens"
+
+#: signa.php:1292
+msgid "Add location"
+msgstr "Voeg locatie toe"
+
+#: signa.php:1293
+msgid "Edit location"
+msgstr "Locatie bewerken"
+
+#: signa.php:1294
+msgid "Fields cannot be empty."
+msgstr "Veld mag niet leeg zijn."
+
+#: signa.php:1295
+msgid "Email address administration"
+msgstr "E-mailadres (contactpersoon) administratie"
+
+#: signa.php:1296
+msgid "Bank account number"
+msgstr "Bankrekeningnummer (IBAN)"
+
+#: signa.php:1297
+msgid "Contact person administration"
+msgstr "Contactpersoon administratie"
+
+#: signa.php:1298
+msgid "Available recipes for this dentist"
+msgstr "Beschikbare recepten"
+
+#: signa.php:1299
+msgid "You can search for the KvK number of the dentist at https://www.kvk.nl/"
+msgstr "U kunt het KvK-nummer opzoeken op https://www.kvk.nl/"
+
+#: signa.php:1300
+msgid "KvK number of the new dentist"
+msgstr "KvK-nummer tandartspraktijk"
+
+#: signa.php:1301
+msgid "You already used this KvK number for"
+msgstr "Dit KvK-nummer is al gebruikt voor"
+
+#: signa.php:1302
+msgid "Please add a new KvK number."
+msgstr "Voeg een nieuw KvK-nummer toe"
+
+#: signa.php:1303
+msgid "Existing user"
+msgstr "Bestaande gebruiker"
+
+#: signa.php:1304
+msgid ""
+"This dentist organisation is already a Signadens user. Is it correct you "
+"want to add this dentist organisation to your client list:"
+msgstr ""
+"Deze tandartspraktijk is al bekend binnen Signadens. Klopt het dat u als "
+"klant toe wilt voegen: "
+
+#: signa.php:1305
+msgid "Telephone number contact person administration"
+msgstr "Telefoonnummer contactpersoon administratie"
+
+#: signa.php:1306
+msgid "Postal code"
+msgstr "Postcode"
+
+#: signa.php:1307
+msgid "Telephone number"
+msgstr "Telefoonnummer"
+
+#: signa.php:1308
+msgid ""
+"Please add the KvK number of the dentist you want to add to your list of "
+"clients."
+msgstr "Voer het KvK-nummer in van de tandartspraktijk die u wilt toevoegen"
+
+#: signa.php:1309
+msgid "If you don't know the KvK number you can go to"
+msgstr "Als u het KvK-nummer niet weet kunt u deze opzoeken via"
+
+#: signa.php:1310
+msgid "The amount of products in queue for approval is:"
+msgstr ""
+"Het aantal producten dat geïmporteerd is en dat klaarstaat om goedgekeurd te "
+"worden is:"
+
+#: signa.php:1311
+msgid ""
+"Once the import is approved the changes are visible for the Labs. You can "
+"follow the status of the import on the"
+msgstr ""
+"Nadat de import is goedgekeurd zijn de wijzigingen ook zichtbaar voor de "
+"Tandtechnische bedrijven. Kijk voor de actuele status van deze import op het"
+
+#: signa.php:1312
+msgid "Select type of CSV delimiter: "
+msgstr "Selecteer het CSV scheidingsteken"
+
+#: signa.php:1313
+msgid " - Semicolon"
+msgstr "- puntkomma"
+
+#: signa.php:1314
+msgid " - Comma"
+msgstr "- komma"
+
+#~ msgid "Shipping costs will be charged when order is < "
+#~ msgstr ""
+#~ "Er worden verzendkosten in rekening gebracht voor bestellingen onder de "

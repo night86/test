@@ -1,0 +1,60 @@
+{% extends "layouts/main.volt" %}
+{% block title %} {{'Add user'|t}} {% endblock %}
+{% block content %}
+    {{ form('supplier/user/add', 'method': 'post') }}
+        {{ submit_button('Add'|t, 'class': 'btn btn-primary add-button') }}
+    <fieldset class="form-group">
+        <legend>{{ "Identity"|t }}</legend>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label>{{'First name'|t}}:</label>
+                    {{ text_field('firstname', 'required': 'required', 'class': 'form-control') }}
+                </div>
+                <div class="form-group">
+                    <label>{{'Last name'|t}}:</label>
+                    {{ text_field('lastname', 'required': 'required', 'class': 'form-control') }}
+                </div>
+                <div class="form-group">
+                    <label>{{'Role'|t}}:</label>
+                    <select id="role_template_id" name="role_template_id" class="form-control" required="required">
+                        {% for role in roles %}
+                            <option orgType="{{ role.organisationType.getSlug() }}"  value="{{ role.id }}">{{ role.name }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>{{'Organisation'|t}}:</label>
+                    {{ text_field('organisation', 'required': 'required', 'value': organisation.name, 'disabled':'disabled', 'class': 'form-control') }}
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label>{{'Phone'|t}}:</label>
+                    {{ text_field('telephone', 'class': 'form-control') }}
+                </div>
+                <div class="form-group">
+                    <label>{{'Email'|t}}:</label>
+                    {{ text_field('email', 'required': 'required', 'class': 'form-control') }}
+                </div>
+                {#
+                <div class="form-group">
+                    <label>{{'Password'|t}}:</label>
+                    {{ password_field('password', 'required': 'required', 'class': 'form-control') }}
+                </div>
+                #}
+                <div class="form-group">
+                    <label>{{'Active'|t}}:</label>
+                    {{ select('active', active, 'required': 'required', 'class': 'form-control') }}
+                </div>
+            </div>
+        </div>
+    </fieldset>
+    {{ end_form() }}
+
+{% endblock %}
+
+{% block scripts %}
+    {{ super() }}
+    <script type="text/javascript" src="/js/app/useraddsupplier.js"></script>
+{% endblock %}

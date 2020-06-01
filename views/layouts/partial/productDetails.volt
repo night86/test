@@ -1,0 +1,8 @@
+{% if product['package_unit'] is defined AND product['package_unit'] is not '' %}<p>{{ 'Package unit'|t }}: <strong>{{ product['package_unit'] }}</strong></p>{% endif %}
+{% if product['manufacturer'] is defined AND product['manufacturer'] is not '' %}<p>{{ 'Manufacturer'|t }}: <strong>{{ product['manufacturer'] }}</strong></p>{% endif %}
+{% if product['external_link_productsheet'] is defined AND product['external_link_productsheet'] is not '' %}<p>{{ 'External link to the product sheet'|t }}: <a href='{{ product['external_link_productsheet'] }}' target='_blank'>{{ product['external_link_productsheet'] }}</a></p>{% endif %}
+{% if product['description'] is defined AND product['description'] is not '' %}<hr><h4>{{ 'Description'|t }}:</h4><p>{{ product['description'] }}</p>{% endif %}
+{% if product['attachment'] is defined AND product['attachment'] is not '' %}<hr><h4>{{ 'Attachment'|t }}:</h4><p>{{ product['attachment'] }}</p>{% endif %}
+{% if product['signa_external_link'] is defined AND product['signa_external_link'] is not '' %}<p>{{ 'External link product sheet Signadens'|t }}: <a href='{{ product['signa_external_link_productsheet'] }}' target='_blank'>{{ product['signa_external_link_productsheet'] }}</a></p>{% endif %}
+{% if product['signa_productsheet'] is defined AND product['signa_productsheet'] is not '' %}<p>{{ 'Product sheet Signadens'|t }}: <a href='{{ product['signa_productsheet'] }}' target='_blank'>{{ product['signa_productsheet'] }}</a></p>{% endif %}
+{% if product['signa_description'] is defined AND product['signa_description'] is not '' %}<p>{{ 'Product description Signadens'|t }}: <a href='{{ product['signa_description'] }}' target='_blank'>{{ product['signa_description'] }}</a></p>{% endif %}

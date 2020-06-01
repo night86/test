@@ -1,0 +1,12 @@
+<?php
+
+if(getenv('APPLICATION_ENV') == 'development') {
+    $confEnv = 'dev';
+} else {
+    $confEnv = 'prod';
+}
+
+$configFile = new Phalcon\Config(parse_ini_file("localconfig_".$confEnv.".ini", true));
+
+//print_r($configFile);die;
+return $configFile;
